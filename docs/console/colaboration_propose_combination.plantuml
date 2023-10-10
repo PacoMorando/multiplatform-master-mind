@@ -1,0 +1,25 @@
+@startuml colaboration-propose-combination-core
+!theme plain
+
+actor viewImpl
+
+package controllers {
+    agent playController
+    agent proposedCombinationController
+}
+package models {
+    agent session
+    agent registry
+    agent game
+    agent proposedCombinations
+}
+
+viewImpl -right-> playController :addPropComb()
+playController -right-> proposedCombinationController :addPropComb()
+proposedCombinationController -down-> session :addPropComb()\nnextAttempt\nregist()
+session -down-> game :addPropComb()\nnextAttempt
+session -down-> registry :regist()
+registry .left.> game
+game -down-> proposedCombinations :add()
+
+@enduml

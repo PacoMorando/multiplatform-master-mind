@@ -7,36 +7,17 @@ state end <<end>>
 state openCondition <<choice>>
 state finishGameCondition <<choice>>
 state saveCondition <<choice>>
-' state resumeCondition <<choice>>
 state INITIAL
 state IN_GAME
-' state IN_SAVE
 state RESUME
-
-' start --> INITIAL
-' INITIAL --> IN_GAME :Start
-' INITIAL --> openCondition :Open
-' openCondition --> IN_GAME
-' openCondition --> IN_SAVE :[isFinished]
-' IN_GAME --> finishGameCondition :Propose
-' IN_GAME --> IN_GAME :Undo
-' IN_GAME --> finishGameCondition :Redo
-' IN_GAME --> IN_SAVE :Exit
-' finishGameCondition --> IN_GAME
-' finishGameCondition --> IN_SAVE :[isFinished]
-' IN_SAVE --> resumeCondition :Resume
-' IN_SAVE --> IN_SAVE :Save
-' resumeCondition --> end
-' resumeCondition --> INITIAL :[continue]
 
 start --> INITIAL
 INITIAL --> IN_GAME :Start
 INITIAL --> openCondition :Open
 openCondition --> IN_GAME
 openCondition --> saveCondition :[isFinished]
-IN_GAME --> finishGameCondition :Propose
-IN_GAME --> IN_GAME :Undo
-IN_GAME --> finishGameCondition :Redo
+IN_GAME --> finishGameCondition :ProposeComb.
+IN_GAME --> IN_GAME :Undo\nRedo
 IN_GAME --> saveCondition :Exit
 finishGameCondition --> IN_GAME
 finishGameCondition --> saveCondition :[isFinished]

@@ -1,0 +1,15 @@
+@startuml colaboration-propose-combination-core
+!theme plain
+
+actor viewImpl
+database persistanceImpl
+
+package controllers {
+    agent startController
+}
+
+
+viewImpl -right-> startController :open(gameName)
+startController -right-> persistanceImpl :load(gameName)
+
+@enduml

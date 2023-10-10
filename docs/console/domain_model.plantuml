@@ -1,0 +1,38 @@
+@startuml domain-mode-core
+!theme plain
+top to bottom direction
+
+class MasterMind
+class SecretCombination
+class ProposedCombination
+class Combination
+class Result
+enum Token {
+    WHITE
+    BLACK
+}
+enum Colors {
+    RED
+    GREEN
+    BLUE
+    YELLOW
+    CYAN
+    MAGENTA
+}
+
+MasterMind *--> Result
+MasterMind *--> SecretCombination
+MasterMind o--> ProposedCombination :0..10
+
+ProposedCombination --|> Combination
+SecretCombination --|> Combination
+
+Result ..> ProposedCombination
+Result --> SecretCombination
+Result *--> Token :0..4
+
+Token --> ProposedCombination
+
+Combination o--> Colors :4
+
+@enduml

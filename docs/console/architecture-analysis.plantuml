@@ -1,0 +1,87 @@
+@startuml colaboration-propose-combination-core
+!theme plain
+top to bottom direction
+
+package views{
+    interface ControllerVisitor
+    abstract View
+    View -up-|> ControllerVisitor
+    note right of View :This has to be\nimplmented\nfor a specifict\ntechnology
+}
+
+
+views..>controllers
+
+package controllers {
+    abstract Controller
+    abstract AceptorController
+    abstract Logic
+    class LogicImplementation
+    class StartController
+    class PlayController
+    class ProposeCombinationController
+    class UndoController
+    class RedoController
+    class SaveController
+    class ExitController
+    class ResumeController
+}
+
+AceptorController -up-|> Controller
+ExitController -up-|> Controller
+LogicImplementation -up-|> Logic
+PlayController -up-|> AceptorController
+StartController -up-|> AceptorController
+SaveController -up-|> AceptorController
+ResumeController -up-|> AceptorController
+
+Logic o--> AceptorController :4
+PlayController *-down-> ProposeCombinationController
+PlayController *-down-> UndoController
+PlayController *-down-> RedoController
+PlayController *-down-> ExitController
+
+controllers .down.> models
+
+package models{
+    class Session
+    class State
+    Enum StateValue
+    class Game
+    class Registry
+    class Memento
+    class Result
+    class Combination
+    class ProposedCombination
+    class SecretCombination
+    Enum Colors
+}
+
+Session *--> Game
+Session *-down-> State
+Session *-down-> Registry
+State *-down-> StateValue :1
+Registry o--> Memento :1..MAX_NUMBER_OF_ATTEMPTS
+Registry --> Game
+Memento o--> ProposedCombination
+Game ..> Memento
+Game *--> Result
+Game *--> SecretCombination
+Game o--> ProposedCombination :0..MAX_NUMBER_OF_ATTEMPTS
+SecretCombination -down-|> Combination
+ProposedCombination -down-|> Combination
+Combination o-down-> Colors :MAX_COLORS_NUM
+Result o--> Colors :MAX_COLORS_NUM
+Result ..> ProposedCombination
+
+dao ..> models
+controllers .down.> dao
+
+package dao{
+    class SessionDTO
+    abstract SessionDAO
+    SessionDAO *--> SessionDTO
+    note right of SessionDAO :This has to be\nimplmented\nfor a specifict\ntechnology
+}
+
+@enduml

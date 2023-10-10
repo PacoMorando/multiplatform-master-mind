@@ -6,7 +6,7 @@ actor Player
 
 usecase Start
 usecase Open
-usecase Propose
+usecase ProposeCombination
 usecase Undo
 usecase Redo
 usecase Save
@@ -15,7 +15,7 @@ usecase Exit
 
 Player -->(Start)
 Player -->(Open)
-Player -->(Propose)
+Player -->(ProposeCombination)
 Player -->(Undo)
 Player -->(Redo)
 Player -->(Save)
