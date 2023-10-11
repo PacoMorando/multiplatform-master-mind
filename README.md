@@ -1,7 +1,7 @@
 # Multiplatform master mind
 
 
-![Logo Image](docs\presentation\master_mind_logo.svg)
+![Logo Image](.\docs\presentation\master_mind_logo.svg)
 ### Index
 - **[Description](#description)**
 - **[Application development](#application-development)**
@@ -48,54 +48,54 @@ This component exposes two interfaces, one for the view technology and another f
 
 
 
-![core component](docs\presentation\master_mind_core_component.svg)
+![core component](.\docs\presentation\master_mind_core_component.svg)
 
 For example, [the console application](https://github.com/PacoMorando/master-mind-console)  implements views to display a text-based dashboard that shows the messages with the information extracted from the core component, thus the implementation It is only responsible for printing messages and validating user input data. To implement the persistence it uses FileWriter to save game data as plain text.
 
 [The android application](https://github.com/PacoMorando/master-mind-android) uses its view technology (Activities, Framents) and SQLite for the persistence of games.  
 In the case of web distribution, I developed a [Rest API](https://github.com/PacoMorando/master-mind-api) using SpringBoot. The API implements the view interface from the core (maven dependency) as "end points" that are exposed to be consumed by an [application website](https://github.com/PacoMorando/master-mind-web) that was developed in Angular. In this way the logic and control of execution flow remains in the backend.
 
-![MovilClient diagram](docs\presentation\master_mind_movil_client.svg)
-![Web Client diagram](docs\presentation\master_mind_web_client.svg)
+![MovilClient diagram](.\docs\presentation\master_mind_movil_client.svg)
+![Web Client diagram](.\docs\presentation\master_mind_web_client.svg)
 
 ## Documentation
 
 
 ### Domain Model
-![Doman Model diagram](docs\core\domain_model\domain-mode-core.svg)
+![Doman Model diagram](.\docs\core\domain_model\domain-mode-core.svg)
 
 
 ### Use Case
-![Use Case diagram](docs\core\use_case\use-case-core.svg)
+![Use Case diagram](.\docs\core\use_case\use-case-core.svg)
 
 
 ### Context Diagram
-![Context diagram](docs\core\context\context-core.svg)
+![Context diagram](.\docs\core\context\context-core.svg)
 
 
 ### Colaboration Diagram Open Case
-![Colaboration diagram 'Open Case'](docs\core\colaboration-open\colaboration-propose-combination-core.svg)
+![Colaboration diagram 'Open Case'](.\docs\core\colaboration-open\colaboration-propose-combination-core.svg)
 
 
 ### Colaboration Diagram 'ProposeCombination Case'
-![Colaboration diagram 'ProposeCombination Case'](docs\core\colaboration_propose_combination\colaboration-propose-combination-core.svg)
+![Colaboration diagram 'ProposeCombination Case'](.\docs\core\colaboration_propose_combination\colaboration-propose-combination-core.svg)
 
 
 ### Architecture
-![Architecture diagram](docs\core\architecture-analysis\analysis-architecture-core.svg)
+![Architecture diagram](.\docs\core\architecture-analysis\analysis-architecture-core.svg)
 
 
 ### View Analysis Diagram
-![View Analysis diagram](docs\core\architecture-views-analysis\analysis-views-core.svg)
+![View Analysis diagram](.\docs\core\architecture-views-analysis\analysis-views-core.svg)
 
 
 ### Controllers Analysis Diagram
-![Controllers Analysis diagram](docs\core\architecture-controllers-analysis\analysis-controllers-core.svg)
+![Controllers Analysis diagram](.\docs\core\architecture-controllers-analysis\analysis-controllers-core.svg)
 
 
 ### DAOs Analysis Diagram
-![DAOs Analysis diagram](docs\core\architecture-dao-analysis\analysis-dao-core.svg)
+![DAOs Analysis diagram](.\docs\core\architecture-dao-analysis\analysis-dao-core.svg)
 
 
 ### Models Analysis Diagram
-![Models Analysis diagram](docs\core\architecture-models-analysis\analysis-models-core.svg)
+![Models Analysis diagram](.\docs\core\architecture-models-analysis\analysis-models-core.svg)
