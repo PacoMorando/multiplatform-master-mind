@@ -1,0 +1,22 @@
+@startuml analysis-architecture-core
+!theme plain
+top to bottom direction
+
+package views{
+}
+
+package controllers {
+}
+
+package models{
+}
+
+package dao{
+}
+
+views ..> controllers
+controllers ..> models
+controllers ..> dao
+dao ..> models
+
+@enduml

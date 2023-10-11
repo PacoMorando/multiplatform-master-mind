@@ -1,0 +1,17 @@
+@startuml analysis-views-core
+!theme plain
+
+package views{
+    interface ControllerVisitor
+    abstract View
+    View -up-|> ControllerVisitor
+    note right of View :This has to be\nimplmented\nfor a specifict\ntechnology
+}
+
+views .down.> controllers
+
+package controllers {
+}
+
+
+@enduml

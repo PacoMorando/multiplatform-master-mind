@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="756px" preserveAspectRatio="none" style="width:406px;height:756px;background:#FFFFFF;" version="1.1" viewBox="0 0 406 756" width="406px" zoomAndPan="magnify"><defs/><g><!--MD5=[153973e0405221f6a20dc6ad197c532d]
+class MasterMind--><g id="elem_MasterMind"><rect codeLine="4" fill="#FFFFFF" height="44" id="MasterMind" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="107" x="190" y="12"/><ellipse cx="203" cy="26" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M205.7656,21.875 Q205.9219,21.6563 206.1094,21.5469 Q206.2969,21.4375 206.5156,21.4375 Q206.8906,21.4375 207.125,21.7031 Q207.3594,21.9531 207.3594,22.5625 L207.3594,24.0156 Q207.3594,24.625 207.125,24.8906 Q206.8906,25.1563 206.5156,25.1563 Q206.1719,25.1563 205.9688,24.9531 Q205.7656,24.7656 205.6563,24.25 Q205.6094,23.8906 205.4219,23.7031 Q205.0938,23.3281 204.4844,23.1094 Q203.875,22.8906 203.25,22.8906 Q202.4844,22.8906 201.8438,23.2188 Q201.2188,23.5469 200.7188,24.2969 Q200.2344,25.0469 200.2344,26.0781 L200.2344,27.1719 Q200.2344,28.4063 201.125,29.2344 Q202.0156,30.0469 203.6094,30.0469 Q204.5469,30.0469 205.2031,29.7969 Q205.5938,29.6406 206.0156,29.2031 Q206.2813,28.9375 206.4219,28.8594 Q206.5781,28.7813 206.7813,28.7813 Q207.1094,28.7813 207.3594,29.0469 Q207.625,29.2969 207.625,29.6406 Q207.625,29.9844 207.2813,30.3906 Q206.7813,30.9688 205.9844,31.2969 Q204.9063,31.75 203.6094,31.75 Q202.0938,31.75 200.8906,31.125 Q199.9063,30.625 199.2188,29.5625 Q198.5313,28.4844 198.5313,27.2031 L198.5313,26.0469 Q198.5313,24.7188 199.1406,23.5781 Q199.7656,22.4219 200.8594,21.8125 Q201.9531,21.1875 203.1875,21.1875 Q203.9219,21.1875 204.5625,21.3594 Q205.2188,21.5156 205.7656,21.875 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="79" x="215" y="31.5679">MasterMind</text><line style="stroke:#000000;stroke-width:1.0;" x1="191" x2="296" y1="40" y2="40"/><line style="stroke:#000000;stroke-width:1.0;" x1="191" x2="296" y1="48" y2="48"/></g><!--MD5=[e370ee5c0c15ce04544d5f5a73174d72]
+class SecretCombination--><g id="elem_SecretCombination"><rect codeLine="5" fill="#FFFFFF" height="44" id="SecretCombination" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="161" x="12" y="255"/><ellipse cx="25" cy="269" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M27.7656,264.875 Q27.9219,264.6563 28.1094,264.5469 Q28.2969,264.4375 28.5156,264.4375 Q28.8906,264.4375 29.125,264.7031 Q29.3594,264.9531 29.3594,265.5625 L29.3594,267.0156 Q29.3594,267.625 29.125,267.8906 Q28.8906,268.1563 28.5156,268.1563 Q28.1719,268.1563 27.9688,267.9531 Q27.7656,267.7656 27.6563,267.25 Q27.6094,266.8906 27.4219,266.7031 Q27.0938,266.3281 26.4844,266.1094 Q25.875,265.8906 25.25,265.8906 Q24.4844,265.8906 23.8438,266.2188 Q23.2188,266.5469 22.7188,267.2969 Q22.2344,268.0469 22.2344,269.0781 L22.2344,270.1719 Q22.2344,271.4063 23.125,272.2344 Q24.0156,273.0469 25.6094,273.0469 Q26.5469,273.0469 27.2031,272.7969 Q27.5938,272.6406 28.0156,272.2031 Q28.2813,271.9375 28.4219,271.8594 Q28.5781,271.7813 28.7813,271.7813 Q29.1094,271.7813 29.3594,272.0469 Q29.625,272.2969 29.625,272.6406 Q29.625,272.9844 29.2813,273.3906 Q28.7813,273.9688 27.9844,274.2969 Q26.9063,274.75 25.6094,274.75 Q24.0938,274.75 22.8906,274.125 Q21.9063,273.625 21.2188,272.5625 Q20.5313,271.4844 20.5313,270.2031 L20.5313,269.0469 Q20.5313,267.7188 21.1406,266.5781 Q21.7656,265.4219 22.8594,264.8125 Q23.9531,264.1875 25.1875,264.1875 Q25.9219,264.1875 26.5625,264.3594 Q27.2188,264.5156 27.7656,264.875 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="133" x="37" y="274.5679">SecretCombination</text><line style="stroke:#000000;stroke-width:1.0;" x1="13" x2="172" y1="283" y2="283"/><line style="stroke:#000000;stroke-width:1.0;" x1="13" x2="172" y1="291" y2="291"/></g><!--MD5=[cf489b19c51ee25e76ddca093e62e620]
+class ProposedCombination--><g id="elem_ProposedCombination"><rect codeLine="6" fill="#FFFFFF" height="44" id="ProposedCombination" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="182" x="217.5" y="377"/><ellipse cx="230.5" cy="391" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M233.2656,386.875 Q233.4219,386.6563 233.6094,386.5469 Q233.7969,386.4375 234.0156,386.4375 Q234.3906,386.4375 234.625,386.7031 Q234.8594,386.9531 234.8594,387.5625 L234.8594,389.0156 Q234.8594,389.625 234.625,389.8906 Q234.3906,390.1563 234.0156,390.1563 Q233.6719,390.1563 233.4688,389.9531 Q233.2656,389.7656 233.1563,389.25 Q233.1094,388.8906 232.9219,388.7031 Q232.5938,388.3281 231.9844,388.1094 Q231.375,387.8906 230.75,387.8906 Q229.9844,387.8906 229.3438,388.2188 Q228.7188,388.5469 228.2188,389.2969 Q227.7344,390.0469 227.7344,391.0781 L227.7344,392.1719 Q227.7344,393.4063 228.625,394.2344 Q229.5156,395.0469 231.1094,395.0469 Q232.0469,395.0469 232.7031,394.7969 Q233.0938,394.6406 233.5156,394.2031 Q233.7813,393.9375 233.9219,393.8594 Q234.0781,393.7813 234.2813,393.7813 Q234.6094,393.7813 234.8594,394.0469 Q235.125,394.2969 235.125,394.6406 Q235.125,394.9844 234.7813,395.3906 Q234.2813,395.9688 233.4844,396.2969 Q232.4063,396.75 231.1094,396.75 Q229.5938,396.75 228.3906,396.125 Q227.4063,395.625 226.7188,394.5625 Q226.0313,393.4844 226.0313,392.2031 L226.0313,391.0469 Q226.0313,389.7188 226.6406,388.5781 Q227.2656,387.4219 228.3594,386.8125 Q229.4531,386.1875 230.6875,386.1875 Q231.4219,386.1875 232.0625,386.3594 Q232.7188,386.5156 233.2656,386.875 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="154" x="242.5" y="396.5679">ProposedCombination</text><line style="stroke:#000000;stroke-width:1.0;" x1="218.5" x2="398.5" y1="405" y2="405"/><line style="stroke:#000000;stroke-width:1.0;" x1="218.5" x2="398.5" y1="413" y2="413"/></g><!--MD5=[28491d17d5ee38c9c116625a5ffc259a]
+class Combination--><g id="elem_Combination"><rect codeLine="7" fill="#FFFFFF" height="44" id="Combination" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="116" x="78.5" y="482"/><ellipse cx="91.5" cy="496" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M94.2656,491.875 Q94.4219,491.6563 94.6094,491.5469 Q94.7969,491.4375 95.0156,491.4375 Q95.3906,491.4375 95.625,491.7031 Q95.8594,491.9531 95.8594,492.5625 L95.8594,494.0156 Q95.8594,494.625 95.625,494.8906 Q95.3906,495.1563 95.0156,495.1563 Q94.6719,495.1563 94.4688,494.9531 Q94.2656,494.7656 94.1563,494.25 Q94.1094,493.8906 93.9219,493.7031 Q93.5938,493.3281 92.9844,493.1094 Q92.375,492.8906 91.75,492.8906 Q90.9844,492.8906 90.3438,493.2188 Q89.7188,493.5469 89.2188,494.2969 Q88.7344,495.0469 88.7344,496.0781 L88.7344,497.1719 Q88.7344,498.4063 89.625,499.2344 Q90.5156,500.0469 92.1094,500.0469 Q93.0469,500.0469 93.7031,499.7969 Q94.0938,499.6406 94.5156,499.2031 Q94.7813,498.9375 94.9219,498.8594 Q95.0781,498.7813 95.2813,498.7813 Q95.6094,498.7813 95.8594,499.0469 Q96.125,499.2969 96.125,499.6406 Q96.125,499.9844 95.7813,500.3906 Q95.2813,500.9688 94.4844,501.2969 Q93.4063,501.75 92.1094,501.75 Q90.5938,501.75 89.3906,501.125 Q88.4063,500.625 87.7188,499.5625 Q87.0313,498.4844 87.0313,497.2031 L87.0313,496.0469 Q87.0313,494.7188 87.6406,493.5781 Q88.2656,492.4219 89.3594,491.8125 Q90.4531,491.1875 91.6875,491.1875 Q92.4219,491.1875 93.0625,491.3594 Q93.7188,491.5156 94.2656,491.875 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="88" x="103.5" y="501.5679">Combination</text><line style="stroke:#000000;stroke-width:1.0;" x1="79.5" x2="193.5" y1="510" y2="510"/><line style="stroke:#000000;stroke-width:1.0;" x1="79.5" x2="193.5" y1="518" y2="518"/></g><!--MD5=[2741598bdf59a7d7e0d5c97658fd3022]
+class Result--><g id="elem_Result"><rect codeLine="8" fill="#FFFFFF" height="44" id="Result" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="72" x="207.5" y="117"/><ellipse cx="220.5" cy="131" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M223.2656,126.875 Q223.4219,126.6563 223.6094,126.5469 Q223.7969,126.4375 224.0156,126.4375 Q224.3906,126.4375 224.625,126.7031 Q224.8594,126.9531 224.8594,127.5625 L224.8594,129.0156 Q224.8594,129.625 224.625,129.8906 Q224.3906,130.1563 224.0156,130.1563 Q223.6719,130.1563 223.4688,129.9531 Q223.2656,129.7656 223.1563,129.25 Q223.1094,128.8906 222.9219,128.7031 Q222.5938,128.3281 221.9844,128.1094 Q221.375,127.8906 220.75,127.8906 Q219.9844,127.8906 219.3438,128.2188 Q218.7188,128.5469 218.2188,129.2969 Q217.7344,130.0469 217.7344,131.0781 L217.7344,132.1719 Q217.7344,133.4063 218.625,134.2344 Q219.5156,135.0469 221.1094,135.0469 Q222.0469,135.0469 222.7031,134.7969 Q223.0938,134.6406 223.5156,134.2031 Q223.7813,133.9375 223.9219,133.8594 Q224.0781,133.7813 224.2813,133.7813 Q224.6094,133.7813 224.8594,134.0469 Q225.125,134.2969 225.125,134.6406 Q225.125,134.9844 224.7813,135.3906 Q224.2813,135.9688 223.4844,136.2969 Q222.4063,136.75 221.1094,136.75 Q219.5938,136.75 218.3906,136.125 Q217.4063,135.625 216.7188,134.5625 Q216.0313,133.4844 216.0313,132.2031 L216.0313,131.0469 Q216.0313,129.7188 216.6406,128.5781 Q217.2656,127.4219 218.3594,126.8125 Q219.4531,126.1875 220.6875,126.1875 Q221.4219,126.1875 222.0625,126.3594 Q222.7188,126.5156 223.2656,126.875 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="44" x="232.5" y="136.5679">Result</text><line style="stroke:#000000;stroke-width:1.0;" x1="208.5" x2="278.5" y1="145" y2="145"/><line style="stroke:#000000;stroke-width:1.0;" x1="208.5" x2="278.5" y1="153" y2="153"/></g><!--MD5=[d8c8cfd5ca149094f5b67f9f607a5ec7]
+class Token--><g id="elem_Token"><rect codeLine="9" fill="#FFFFFF" height="78.0293" id="Token" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="71" x="208" y="238"/><ellipse cx="221" cy="252" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M219.8594,252.7969 L219.8594,255.2969 L224.1875,255.2969 L224.1875,254.375 Q224.1875,253.7656 224.4219,253.5 Q224.6719,253.2344 225.0469,253.2344 Q225.4219,253.2344 225.6563,253.5 Q225.8906,253.7656 225.8906,254.375 L225.8906,257 L217.8906,257 Q217.2656,257 217,256.7656 Q216.75,256.5313 216.75,256.1406 Q216.75,255.7656 217.0156,255.5313 Q217.2813,255.2969 217.8906,255.2969 L218.1563,255.2969 L218.1563,248.6406 L217.8906,248.6406 Q217.2656,248.6406 217,248.4063 Q216.75,248.1719 216.75,247.7813 Q216.75,247.4063 217,247.1719 Q217.2656,246.9375 217.8906,246.9375 L225.5156,246.9375 L225.5156,249.5313 Q225.5156,250.1406 225.2813,250.4063 Q225.0625,250.6563 224.6719,250.6563 Q224.2969,250.6563 224.0625,250.4063 Q223.8281,250.1406 223.8281,249.5313 L223.8281,248.6406 L219.8594,248.6406 L219.8594,251.0938 L221.3438,251.0938 Q221.3438,250.4375 221.4688,250.25 Q221.7344,249.8438 222.2031,249.8438 Q222.5781,249.8438 222.8125,250.1094 Q223.0469,250.3594 223.0469,250.9688 L223.0469,252.9375 Q223.0469,253.4844 222.9219,253.6719 Q222.6563,254.0625 222.2031,254.0625 Q221.7344,254.0625 221.4688,253.6563 Q221.3438,253.4688 221.3438,252.7969 L219.8594,252.7969 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="43" x="233" y="257.5679">Token</text><line style="stroke:#000000;stroke-width:1.0;" x1="209" x2="278" y1="266" y2="266"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="48" x="214" y="284.0752">WHITE</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="48" x="214" y="301.0898">BLACK</text><line style="stroke:#000000;stroke-width:1.0;" x1="209" x2="278" y1="308.0293" y2="308.0293"/></g><!--MD5=[c4df9b95f6f4e4e1c32bb5a44abd175a]
+class Colors--><g id="elem_Colors"><rect codeLine="13" fill="#FFFFFF" height="146.0879" id="Colors" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="82" x="95.5" y="603"/><ellipse cx="112.55" cy="617" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M111.4094,617.7969 L111.4094,620.2969 L115.7375,620.2969 L115.7375,619.375 Q115.7375,618.7656 115.9719,618.5 Q116.2219,618.2344 116.5969,618.2344 Q116.9719,618.2344 117.2063,618.5 Q117.4406,618.7656 117.4406,619.375 L117.4406,622 L109.4406,622 Q108.8156,622 108.55,621.7656 Q108.3,621.5313 108.3,621.1406 Q108.3,620.7656 108.5656,620.5313 Q108.8313,620.2969 109.4406,620.2969 L109.7063,620.2969 L109.7063,613.6406 L109.4406,613.6406 Q108.8156,613.6406 108.55,613.4063 Q108.3,613.1719 108.3,612.7813 Q108.3,612.4063 108.55,612.1719 Q108.8156,611.9375 109.4406,611.9375 L117.0656,611.9375 L117.0656,614.5313 Q117.0656,615.1406 116.8313,615.4063 Q116.6125,615.6563 116.2219,615.6563 Q115.8469,615.6563 115.6125,615.4063 Q115.3781,615.1406 115.3781,614.5313 L115.3781,613.6406 L111.4094,613.6406 L111.4094,616.0938 L112.8938,616.0938 Q112.8938,615.4375 113.0188,615.25 Q113.2844,614.8438 113.7531,614.8438 Q114.1281,614.8438 114.3625,615.1094 Q114.5969,615.3594 114.5969,615.9688 L114.5969,617.9375 Q114.5969,618.4844 114.4719,618.6719 Q114.2063,619.0625 113.7531,619.0625 Q113.2844,619.0625 113.0188,618.6563 Q112.8938,618.4688 112.8938,617.7969 L111.4094,617.7969 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="45" x="125.45" y="622.5679">Colors</text><line style="stroke:#000000;stroke-width:1.0;" x1="96.5" x2="176.5" y1="631" y2="631"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="30" x="101.5" y="649.0752">RED</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="49" x="101.5" y="666.0898">GREEN</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="37" x="101.5" y="683.1045">BLUE</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="60" x="101.5" y="700.1191">YELLOW</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="39" x="101.5" y="717.1338">CYAN</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="70" x="101.5" y="734.1484">MAGENTA</text><line style="stroke:#000000;stroke-width:1.0;" x1="96.5" x2="176.5" y1="741.0879" y2="741.0879"/></g><!--MD5=[55b8978b82069d8d94f48e574c97f0d7]
+link MasterMind to Result--><g id="link_MasterMind_Result"><path codeLine="22" d="M243.5,68.34 C243.5,68.34 243.5,92.78 243.5,103.67 " fill="none" id="MasterMind-Result" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="243.5,116.69,247.5,107.69,243.5,111.69,239.5,107.69,243.5,116.69" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="243.5" x2="243.5" y1="111.69" y2="103.69"/><polygon fill="#000000" points="243.5,56.34,239.5,62.34,243.5,68.34,247.5,62.34,243.5,56.34" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[9a40ea1f9b369a3532ffba625c9b286c]
+link MasterMind to SecretCombination--><g id="link_MasterMind_SecretCombination"><path codeLine="23" d="M222.6597,66.0987 C222.6597,66.0987 200.05,100.37 189.5,117 C162.02,160.35 131.33,211.06 111.97,243.35 " fill="none" id="MasterMind-SecretCombination" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="105.14,254.77,113.1919,249.0984,107.706,250.4787,106.3258,244.9928,105.14,254.77" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="107.706" x2="111.815" y1="250.4787" y2="243.615"/><polygon fill="#000000" points="229.31,56.11,222.6553,58.8876,222.6597,66.0987,229.3144,63.3211,229.31,56.11" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[c8123868cc20101748f79ae6d915892e]
+link MasterMind to ProposedCombination--><g id="link_MasterMind_ProposedCombination"><path codeLine="24" d="M267.2508,65.8674 C267.2508,65.8674 289.7,99.56 297.5,117 C339.64,211.25 333.16,242.81 336.5,346 C336.71,352.51 335.09,358.99 332.54,365.06 " fill="none" id="MasterMind-ProposedCombination" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="326.28,376.8,334.0431,370.7392,328.6318,372.3876,326.9833,366.9763,326.28,376.8" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="328.6318" x2="332.395" y1="372.3876" y2="365.33"/><polygon fill="none" points="260.21,56.15,260.4913,63.3556,267.2508,65.8674,266.9695,58.6617,260.21,56.15" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="34" x="328.5" y="205.0698">0..10</text></g><!--MD5=[a12185d14360d02d777dd92abc80c0d6]
+link ProposedCombination to Combination--><g id="link_ProposedCombination_Combination"><path codeLine="26" d="M273.28,421.09 C249.05,435.6 216.43,455.13 189.13,471.48 " fill="none" id="ProposedCombination-to-Combination" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="192.43,477.67,171.67,481.94,185.24,465.66,192.43,477.67" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[f1ebc137e6a9f6f8e77dd5534cd28514]
+link SecretCombination to Combination--><g id="link_SecretCombination_Combination"><path codeLine="27" d="M96.64,299.17 C103.91,336.36 119.1,414.01 128.48,462.01 " fill="none" id="SecretCombination-to-Combination" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="135.37,460.75,132.34,481.72,121.63,463.44,135.37,460.75" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[9b5cddcdba0f3590f5210c2fb5637c7f]
+link Result to ProposedCombination--><g id="link_Result_ProposedCombination"><path codeLine="29" d="M260.26,161.02 C266.83,169.92 274.09,180.62 279.5,191 C310.32,250.08 311.85,330.92 310.25,371.9 " fill="none" id="Result-to-ProposedCombination" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="310.03,376.93,314.438,368.1226,310.259,371.9352,306.4464,367.7563,310.03,376.93" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[ca1f03a6b09a7e090560224866d0d466]
+link Result to SecretCombination--><g id="link_Result_SecretCombination"><path codeLine="30" d="M219.91,161.25 C192.76,185.7 148.25,225.79 119.68,251.52 " fill="none" id="Result-to-SecretCombination" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="115.93,254.9,125.2955,251.8525,119.6465,251.5552,119.9438,245.9061,115.93,254.9" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[cc40075fa9dceb6bcc6db0388ec78d87]
+link Result to Token--><g id="link_Result_Token"><path codeLine="31" d="M243.5,173.25 C243.5,173.25 243.5,207.97 243.5,224.82 " fill="none" id="Result-Token" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="243.5,237.94,247.5,228.94,243.5,232.94,239.5,228.94,243.5,237.94" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="243.5" x2="243.5" y1="232.94" y2="224.94"/><polygon fill="#000000" points="243.5,161.25,239.5,167.25,243.5,173.25,247.5,167.25,243.5,161.25" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="26" x="244.5" y="205.0698">0..4</text></g><!--MD5=[2f1dc6f99773d3aee42b37270cbcfb45]
+link Token to ProposedCombination--><g id="link_Token_ProposedCombination"><path codeLine="33" d="M264.25,316.3 C274.16,334.61 285.77,356.03 294.6,372.34 " fill="none" id="Token-to-ProposedCombination" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="297.02,376.8,296.2465,366.9816,294.6367,372.4045,289.2138,370.7948,297.02,376.8" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[763fa03a03bd236af04f06a7f8bd2c9c]
+link Combination to Colors--><g id="link_Combination_Colors"><path codeLine="35" d="M136.5,538.19 C136.5,538.19 136.5,571.87 136.5,589.7 " fill="none" id="Combination-Colors" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="136.5,602.96,140.5,593.96,136.5,597.96,132.5,593.96,136.5,602.96" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="136.5" x2="136.5" y1="597.96" y2="589.96"/><polygon fill="none" points="136.5,526.19,132.5,532.19,136.5,538.19,140.5,532.19,136.5,526.19" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="8" x="137.5" y="570.0698">4</text></g><!--MD5=[3b7ff7bb8c8d1d7c5bae0d6656519119]
+@startuml domain-mode-core
+!theme plain
+top to bottom direction
+
+class MasterMind
+class SecretCombination
+class ProposedCombination
+class Combination
+class Result
+enum Token {
+    WHITE
+    BLACK
+}
+enum Colors {
+    RED
+    GREEN
+    BLUE
+    YELLOW
+    CYAN
+    MAGENTA
+}
+
+MasterMind *- -> Result
+MasterMind *- -> SecretCombination
+MasterMind o- -> ProposedCombination :0..10
+
+ProposedCombination - -|> Combination
+SecretCombination - -|> Combination
+
+Result ..> ProposedCombination
+Result - -> SecretCombination
+Result *- -> Token :0..4
+
+Token - -> ProposedCombination
+
+Combination o- -> Colors :4
+
+@enduml
+
+@startuml domain-mode-core
+
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor white
+    FontColor black
+    FontName Verdana
+    HyperLinkColor blue
+    LineColor black
+    LineThickness 1
+    Margin 5
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  header {
+    LineThickness 0
+  }
+  node {
+    MaximumWidth 300
+  }
+  title {
+    FontSize 22
+    LineThickness 0
+  }
+</style>
+
+skinparam ArrowLollipopColor black
+skinparam BackgroundColor white
+skinparam DefaultFontName Verdana
+skinparam DefaultMonospacedFontName Courier
+skinparam LifelineStrategy nosolid
+skinparam ParticipantPadding 10
+skinparam SequenceLifeLineBorderColor black
+skinparam Shadowing false
+skinparam UseBetaStyle true
+
+skinparam Activity {
+  BackgroundColor white
+  BarColor black
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam Boundary {
+  FontColor black
+}
+skinparam Box {
+  Padding 5
+}
+skinparam CircledCharacter {
+  FontColor black
+  FontName Courier
+  Radius 9
+}
+skinparam Class {
+  BackgroundColor white
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassAttribute {
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassStereotype {
+  FontColor black
+  FontName Verdana
+}
+skinparam Footer {
+  FontColor black
+  FontName Verdana
+}
+skinparam Header {
+  FontColor black
+  FontName Verdana
+}
+skinparam Hyperlink {
+  Color blue
+}
+skinparam IconPackage {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPrivate {
+  Color black
+  BackgroundColor white
+}
+skinparam IconProtected {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPublic {
+  Color black
+  BackgroundColor white
+}
+skinparam Note {
+  FontColor black
+  FontName Verdana
+}
+skinparam Object {
+  BorderColor black
+}
+skinparam Package {
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam State {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeA {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeC {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeE {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeI {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeN {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam UseCaseStereoType {
+  FontColor black
+  FontName Verdana
+}
+top to bottom direction
+
+class MasterMind
+class SecretCombination
+class ProposedCombination
+class Combination
+class Result
+enum Token {
+    WHITE
+    BLACK
+}
+enum Colors {
+    RED
+    GREEN
+    BLUE
+    YELLOW
+    CYAN
+    MAGENTA
+}
+
+MasterMind *- -> Result
+MasterMind *- -> SecretCombination
+MasterMind o- -> ProposedCombination :0..10
+
+ProposedCombination - -|> Combination
+SecretCombination - -|> Combination
+
+Result ..> ProposedCombination
+Result - -> SecretCombination
+Result *- -> Token :0..4
+
+Token - -> ProposedCombination
+
+Combination o- -> Colors :4
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 12:01:30 CDT 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1252
+Language: es
+Country: MX
+--></g></svg>

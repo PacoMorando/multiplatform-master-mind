@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="514px" preserveAspectRatio="none" style="width:302px;height:514px;background:#FFFFFF;" version="1.1" viewBox="0 0 302 514" width="302px" zoomAndPan="magnify"><defs/><g><!--MD5=[de2effd8dc5bf946a609466312d0f75f]
+entity Player--><g id="elem_Player"><ellipse cx="31.5" cy="236" fill="#FFFFFF" rx="8" ry="8" style="stroke:#000000;stroke-width:1.0;"/><path d="M31.5,244 L31.5,271 M18.5,252 L44.5,252 M31.5,271 L18.5,286 M31.5,271 L44.5,286 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="41" x="11" y="302.0752">Player</text></g><g id="elem_Start"><ellipse cx="204.4411" cy="26.0312" fill="#FFFFFF" rx="36.9411" ry="15.0312" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="36" x="186.4411" y="29.599">Start</text></g><g id="elem_Open"><ellipse cx="204.6482" cy="91.0312" fill="#FFFFFF" rx="37.6482" ry="15.0312" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="37" x="186.1482" y="94.599">Open</text></g><g id="elem_ProposeCombination"><ellipse cx="204.2839" cy="161.8568" fill="#FFFFFF" rx="92.2839" ry="20.8568" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="145" x="131.7839" y="165.4247">ProposeCombination</text></g><g id="elem_Undo"><ellipse cx="204.6482" cy="233.0312" fill="#FFFFFF" rx="37.6482" ry="15.0312" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="37" x="186.1482" y="236.599">Undo</text></g><g id="elem_Redo"><ellipse cx="204.4411" cy="298.0312" fill="#FFFFFF" rx="36.9411" ry="15.0312" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="36" x="186.4411" y="301.599">Redo</text></g><g id="elem_Save"><ellipse cx="204.5269" cy="363.0312" fill="#FFFFFF" rx="35.5269" ry="15.0312" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="34" x="187.5269" y="366.599">Save</text></g><g id="elem_Resume"><ellipse cx="204.6861" cy="428.0569" fill="#FFFFFF" rx="51.1861" ry="15.0569" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="56" x="174.4615" y="432.1814">Resume</text></g><g id="elem_Exit"><ellipse cx="204.5772" cy="493.0312" fill="#FFFFFF" rx="30.5772" ry="15.0312" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="27" x="191.0772" y="496.599">Exit</text></g><!--MD5=[39353cd92ba960c69c4d2a9385fee2c7]
+link Player to Start--><g id="link_Player_Start"><path d="M37.43,226.86 C45.28,180.5 64.87,103.8 112,58 C126.12,44.28 146.45,36.41 164.36,31.92 " fill="none" id="Player-to-Start" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="169.34,30.74,159.6643,28.9014,164.4722,31.882,161.4915,36.6899,169.34,30.74" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[800a240c68129cf6765d067e017333e1]
+link Player to Open--><g id="link_Player_Open"><path d="M45.34,226.87 C57.72,194.82 79.41,150.45 112,123 C126.94,110.42 147.15,102.66 164.77,97.95 " fill="none" id="Player-to-Open" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="169.67,96.7,159.9582,95.0628,164.8269,97.9429,161.9468,102.8117,169.67,96.7" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[8dee72b7ea4194df32cfadea21530293]
+link Player to ProposeCombination--><g id="link_Player_ProposeCombination"><path d="M52.14,246.82 C67.5,232.57 89.89,213.35 112,200 C123.31,193.17 136.07,187.02 148.39,181.75 " fill="none" id="Player-to-ProposeCombination" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="153.27,179.7,143.4228,179.5169,148.664,181.6454,146.5355,186.8865,153.27,179.7" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[0380c48cc03698e9c08b2a5affc527cb]
+link Player to Undo--><g id="link_Player_Undo"><path d="M52.12,262.21 C79.63,256.91 130.22,247.14 165.31,240.37 " fill="none" id="Player-to-Undo" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="170.37,239.39,160.7775,237.1575,165.4596,240.3321,162.2849,245.0142,170.37,239.39" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[714833a1def7c2d3f9278f33fd9da27b]
+link Player to Redo--><g id="link_Player_Redo"><path d="M52.12,269.67 C79.71,274.83 130.53,284.34 165.63,290.91 " fill="none" id="Player-to-Redo" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="170.69,291.86,162.5735,286.2813,165.7743,290.9455,161.1102,294.1463,170.69,291.86" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[4b15e63cbdec9d7363171c88be305ecc]
+link Player to Save--><g id="link_Player_Save"><path d="M52.06,284.85 C67.38,298.81 89.76,317.5 112,330 C129.9,340.06 151.43,348 169.11,353.58 " fill="none" id="Player-to-Save" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="173.99,355.09,166.5684,348.6154,169.212,353.6166,164.2109,356.2602,173.99,355.09" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[5fec2ab2a197ce562aec9d83f689b0ce]
+link Player to Resume--><g id="link_Player_Resume"><path d="M48.09,305.05 C61.27,333.54 82.7,371.19 112,395 C125.07,405.62 141.83,412.97 157.43,417.99 " fill="none" id="Player-to-Resume" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="162.23,419.47,154.803,413.0017,157.4508,418.0006,152.4519,420.6484,162.23,419.47" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[8e8f658c86bf230e4048e4af0c39e552]
+link Player to Exit--><g id="link_Player_Exit"><path d="M38.81,305.18 C47.77,348.62 68.24,418.07 112,460 C127.72,475.06 150.8,483.32 169.85,487.81 " fill="none" id="Player-to-Exit" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="175.1,488.98,167.182,483.1229,170.2191,487.8953,165.4466,490.9324,175.1,488.98" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[7ab93a48f5b3ab60e790cac61f3d85f6]
+@startuml use-case-core
+!theme plain
+left to right direction
+
+actor Player
+
+usecase Start
+usecase Open
+usecase ProposeCombination
+usecase Undo
+usecase Redo
+usecase Save
+usecase Resume
+usecase Exit
+
+Player - ->(Start)
+Player - ->(Open)
+Player - ->(ProposeCombination)
+Player - ->(Undo)
+Player - ->(Redo)
+Player - ->(Save)
+Player - ->(Resume)
+Player - ->(Exit)
+
+@enduml
+
+@startuml use-case-core
+
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor white
+    FontColor black
+    FontName Verdana
+    HyperLinkColor blue
+    LineColor black
+    LineThickness 1
+    Margin 5
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  header {
+    LineThickness 0
+  }
+  node {
+    MaximumWidth 300
+  }
+  title {
+    FontSize 22
+    LineThickness 0
+  }
+</style>
+
+skinparam ArrowLollipopColor black
+skinparam BackgroundColor white
+skinparam DefaultFontName Verdana
+skinparam DefaultMonospacedFontName Courier
+skinparam LifelineStrategy nosolid
+skinparam ParticipantPadding 10
+skinparam SequenceLifeLineBorderColor black
+skinparam Shadowing false
+skinparam UseBetaStyle true
+
+skinparam Activity {
+  BackgroundColor white
+  BarColor black
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam Boundary {
+  FontColor black
+}
+skinparam Box {
+  Padding 5
+}
+skinparam CircledCharacter {
+  FontColor black
+  FontName Courier
+  Radius 9
+}
+skinparam Class {
+  BackgroundColor white
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassAttribute {
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassStereotype {
+  FontColor black
+  FontName Verdana
+}
+skinparam Footer {
+  FontColor black
+  FontName Verdana
+}
+skinparam Header {
+  FontColor black
+  FontName Verdana
+}
+skinparam Hyperlink {
+  Color blue
+}
+skinparam IconPackage {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPrivate {
+  Color black
+  BackgroundColor white
+}
+skinparam IconProtected {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPublic {
+  Color black
+  BackgroundColor white
+}
+skinparam Note {
+  FontColor black
+  FontName Verdana
+}
+skinparam Object {
+  BorderColor black
+}
+skinparam Package {
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam State {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeA {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeC {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeE {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeI {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeN {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam UseCaseStereoType {
+  FontColor black
+  FontName Verdana
+}
+left to right direction
+
+actor Player
+
+usecase Start
+usecase Open
+usecase ProposeCombination
+usecase Undo
+usecase Redo
+usecase Save
+usecase Resume
+usecase Exit
+
+Player - ->(Start)
+Player - ->(Open)
+Player - ->(ProposeCombination)
+Player - ->(Undo)
+Player - ->(Redo)
+Player - ->(Save)
+Player - ->(Resume)
+Player - ->(Exit)
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 12:01:30 CDT 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1252
+Language: es
+Country: MX
+--></g></svg>

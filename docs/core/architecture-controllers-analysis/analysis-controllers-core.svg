@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="491px" preserveAspectRatio="none" style="width:922px;height:491px;background:#FFFFFF;" version="1.1" viewBox="0 0 922 491" width="922px" zoomAndPan="magnify"><defs/><g><!--MD5=[f4e70ef68289585296b9045165e58692]
+cluster controllers--><g id="cluster_controllers"><path d="M13.5,12.1191 L149.5,12.1191 A3.75,3.75 0 0 1 152,14.6191 L159,44.8564 L803.5,44.8564 A2.5,2.5 0 0 1 806,47.3564 L806,481.6191 A2.5,2.5 0 0 1 803.5,484.1191 L13.5,484.1191 A2.5,2.5 0 0 1 11,481.6191 L11,14.6191 A2.5,2.5 0 0 1 13.5,12.1191 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="11" x2="159" y1="44.8564" y2="44.8564"/><text fill="#000000" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="135" x="15" y="36.2373">controllers</text></g><!--MD5=[1d7ba1c7002d54515419844fbd155368]
+class Controller--><g id="elem_Controller"><rect codeLine="5" fill="#FFFFFF" height="44" id="Controller" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="99" x="174.5" y="65.1191"/><ellipse cx="187.5" cy="79.1191" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M189.6875,80.8848 L185.5469,80.8848 L185.125,81.916 L185.5469,81.916 Q186.1563,81.916 186.4219,82.1504 Q186.6875,82.3848 186.6875,82.7754 Q186.6875,83.1504 186.4219,83.3848 Q186.1563,83.6191 185.5469,83.6191 L183.25,83.6191 Q182.6406,83.6191 182.3906,83.3848 Q182.125,83.1504 182.125,82.7598 Q182.125,82.3848 182.4063,82.1504 Q182.6719,81.9004 183.2969,81.916 L185.9688,75.2598 L184.8594,75.2598 Q184.25,75.2598 183.9844,75.0254 Q183.7188,74.791 183.7188,74.4004 Q183.7188,74.0254 183.9844,73.791 Q184.25,73.5566 184.8594,73.5566 L188.5313,73.5566 L191.9219,81.916 Q192.5156,81.916 192.7031,82.0566 Q193.0938,82.3223 193.0938,82.7754 Q193.0938,83.1504 192.8281,83.3848 Q192.5781,83.6191 191.9688,83.6191 L189.6719,83.6191 Q189.0625,83.6191 188.7969,83.3848 Q188.5313,83.1504 188.5313,82.7598 Q188.5313,82.3848 188.7969,82.1504 Q189.0625,81.916 189.6719,81.916 L190.0938,81.916 L189.6875,80.8848 Z M188.9688,79.1816 L187.6094,75.8066 L186.2344,79.1816 L188.9688,79.1816 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="71" x="199.5" y="84.687">Controller</text><line style="stroke:#000000;stroke-width:1.0;" x1="175.5" x2="272.5" y1="93.1191" y2="93.1191"/><line style="stroke:#000000;stroke-width:1.0;" x1="175.5" x2="272.5" y1="101.1191" y2="101.1191"/></g><!--MD5=[2acdfa59e32c41fa2122f0be1f29c67a]
+class AceptorController--><g id="elem_AceptorController"><rect codeLine="6" fill="#FFFFFF" height="44" id="AceptorController" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="155" x="237.5" y="191.1191"/><ellipse cx="250.5" cy="205.1191" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M252.6875,206.8848 L248.5469,206.8848 L248.125,207.916 L248.5469,207.916 Q249.1563,207.916 249.4219,208.1504 Q249.6875,208.3848 249.6875,208.7754 Q249.6875,209.1504 249.4219,209.3848 Q249.1563,209.6191 248.5469,209.6191 L246.25,209.6191 Q245.6406,209.6191 245.3906,209.3848 Q245.125,209.1504 245.125,208.7598 Q245.125,208.3848 245.4063,208.1504 Q245.6719,207.9004 246.2969,207.916 L248.9688,201.2598 L247.8594,201.2598 Q247.25,201.2598 246.9844,201.0254 Q246.7188,200.791 246.7188,200.4004 Q246.7188,200.0254 246.9844,199.791 Q247.25,199.5566 247.8594,199.5566 L251.5313,199.5566 L254.9219,207.916 Q255.5156,207.916 255.7031,208.0566 Q256.0938,208.3223 256.0938,208.7754 Q256.0938,209.1504 255.8281,209.3848 Q255.5781,209.6191 254.9688,209.6191 L252.6719,209.6191 Q252.0625,209.6191 251.7969,209.3848 Q251.5313,209.1504 251.5313,208.7598 Q251.5313,208.3848 251.7969,208.1504 Q252.0625,207.916 252.6719,207.916 L253.0938,207.916 L252.6875,206.8848 Z M251.9688,205.1816 L250.6094,201.8066 L249.2344,205.1816 L251.9688,205.1816 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="127" x="262.5" y="210.687">AceptorController</text><line style="stroke:#000000;stroke-width:1.0;" x1="238.5" x2="391.5" y1="219.1191" y2="219.1191"/><line style="stroke:#000000;stroke-width:1.0;" x1="238.5" x2="391.5" y1="227.1191" y2="227.1191"/></g><!--MD5=[42fa18dda7351a0ae87d9497de925436]
+class Logic--><g id="elem_Logic"><rect codeLine="7" fill="#FFFFFF" height="44" id="Logic" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="66" x="373" y="65.1191"/><ellipse cx="386" cy="79.1191" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M388.1875,80.8848 L384.0469,80.8848 L383.625,81.916 L384.0469,81.916 Q384.6563,81.916 384.9219,82.1504 Q385.1875,82.3848 385.1875,82.7754 Q385.1875,83.1504 384.9219,83.3848 Q384.6563,83.6191 384.0469,83.6191 L381.75,83.6191 Q381.1406,83.6191 380.8906,83.3848 Q380.625,83.1504 380.625,82.7598 Q380.625,82.3848 380.9063,82.1504 Q381.1719,81.9004 381.7969,81.916 L384.4688,75.2598 L383.3594,75.2598 Q382.75,75.2598 382.4844,75.0254 Q382.2188,74.791 382.2188,74.4004 Q382.2188,74.0254 382.4844,73.791 Q382.75,73.5566 383.3594,73.5566 L387.0313,73.5566 L390.4219,81.916 Q391.0156,81.916 391.2031,82.0566 Q391.5938,82.3223 391.5938,82.7754 Q391.5938,83.1504 391.3281,83.3848 Q391.0781,83.6191 390.4688,83.6191 L388.1719,83.6191 Q387.5625,83.6191 387.2969,83.3848 Q387.0313,83.1504 387.0313,82.7598 Q387.0313,82.3848 387.2969,82.1504 Q387.5625,81.916 388.1719,81.916 L388.5938,81.916 L388.1875,80.8848 Z M387.4688,79.1816 L386.1094,75.8066 L384.7344,79.1816 L387.4688,79.1816 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="38" x="398" y="84.687">Logic</text><line style="stroke:#000000;stroke-width:1.0;" x1="374" x2="438" y1="93.1191" y2="93.1191"/><line style="stroke:#000000;stroke-width:1.0;" x1="374" x2="438" y1="101.1191" y2="101.1191"/></g><!--MD5=[1ccaea6389522240d1d424d636be96b4]
+class LogicImplementation--><g id="elem_LogicImplementation"><rect codeLine="8" fill="#FFFFFF" height="44" id="LogicImplementation" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="173" x="427.5" y="191.1191"/><ellipse cx="440.5" cy="205.1191" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M443.2656,200.9941 Q443.4219,200.7754 443.6094,200.666 Q443.7969,200.5566 444.0156,200.5566 Q444.3906,200.5566 444.625,200.8223 Q444.8594,201.0723 444.8594,201.6816 L444.8594,203.1348 Q444.8594,203.7441 444.625,204.0098 Q444.3906,204.2754 444.0156,204.2754 Q443.6719,204.2754 443.4688,204.0723 Q443.2656,203.8848 443.1563,203.3691 Q443.1094,203.0098 442.9219,202.8223 Q442.5938,202.4473 441.9844,202.2285 Q441.375,202.0098 440.75,202.0098 Q439.9844,202.0098 439.3438,202.3379 Q438.7188,202.666 438.2188,203.416 Q437.7344,204.166 437.7344,205.1973 L437.7344,206.291 Q437.7344,207.5254 438.625,208.3535 Q439.5156,209.166 441.1094,209.166 Q442.0469,209.166 442.7031,208.916 Q443.0938,208.7598 443.5156,208.3223 Q443.7813,208.0566 443.9219,207.9785 Q444.0781,207.9004 444.2813,207.9004 Q444.6094,207.9004 444.8594,208.166 Q445.125,208.416 445.125,208.7598 Q445.125,209.1035 444.7813,209.5098 Q444.2813,210.0879 443.4844,210.416 Q442.4063,210.8691 441.1094,210.8691 Q439.5938,210.8691 438.3906,210.2441 Q437.4063,209.7441 436.7188,208.6816 Q436.0313,207.6035 436.0313,206.3223 L436.0313,205.166 Q436.0313,203.8379 436.6406,202.6973 Q437.2656,201.541 438.3594,200.9316 Q439.4531,200.3066 440.6875,200.3066 Q441.4219,200.3066 442.0625,200.4785 Q442.7188,200.6348 443.2656,200.9941 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="145" x="452.5" y="210.687">LogicImplementation</text><line style="stroke:#000000;stroke-width:1.0;" x1="428.5" x2="599.5" y1="219.1191" y2="219.1191"/><line style="stroke:#000000;stroke-width:1.0;" x1="428.5" x2="599.5" y1="227.1191" y2="227.1191"/></g><!--MD5=[47c371471411cfedeee61b1a5bdaee47]
+class StartController--><g id="elem_StartController"><rect codeLine="9" fill="#FFFFFF" height="44" id="StartController" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="133" x="426.5" y="306.1191"/><ellipse cx="439.5" cy="320.1191" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M442.2656,315.9941 Q442.4219,315.7754 442.6094,315.666 Q442.7969,315.5566 443.0156,315.5566 Q443.3906,315.5566 443.625,315.8223 Q443.8594,316.0723 443.8594,316.6816 L443.8594,318.1348 Q443.8594,318.7441 443.625,319.0098 Q443.3906,319.2754 443.0156,319.2754 Q442.6719,319.2754 442.4688,319.0723 Q442.2656,318.8848 442.1563,318.3691 Q442.1094,318.0098 441.9219,317.8223 Q441.5938,317.4473 440.9844,317.2285 Q440.375,317.0098 439.75,317.0098 Q438.9844,317.0098 438.3438,317.3379 Q437.7188,317.666 437.2188,318.416 Q436.7344,319.166 436.7344,320.1973 L436.7344,321.291 Q436.7344,322.5254 437.625,323.3535 Q438.5156,324.166 440.1094,324.166 Q441.0469,324.166 441.7031,323.916 Q442.0938,323.7598 442.5156,323.3223 Q442.7813,323.0566 442.9219,322.9785 Q443.0781,322.9004 443.2813,322.9004 Q443.6094,322.9004 443.8594,323.166 Q444.125,323.416 444.125,323.7598 Q444.125,324.1035 443.7813,324.5098 Q443.2813,325.0879 442.4844,325.416 Q441.4063,325.8691 440.1094,325.8691 Q438.5938,325.8691 437.3906,325.2441 Q436.4063,324.7441 435.7188,323.6816 Q435.0313,322.6035 435.0313,321.3223 L435.0313,320.166 Q435.0313,318.8379 435.6406,317.6973 Q436.2656,316.541 437.3594,315.9316 Q438.4531,315.3066 439.6875,315.3066 Q440.4219,315.3066 441.0625,315.4785 Q441.7188,315.6348 442.2656,315.9941 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="105" x="451.5" y="325.687">StartController</text><line style="stroke:#000000;stroke-width:1.0;" x1="427.5" x2="558.5" y1="334.1191" y2="334.1191"/><line style="stroke:#000000;stroke-width:1.0;" x1="427.5" x2="558.5" y1="342.1191" y2="342.1191"/></g><!--MD5=[cc8600b868f8dfab2c8d497bce62f90a]
+class PlayController--><g id="elem_PlayController"><rect codeLine="10" fill="#FFFFFF" height="44" id="PlayController" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="124" x="595" y="306.1191"/><ellipse cx="608" cy="320.1191" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M610.7656,315.9941 Q610.9219,315.7754 611.1094,315.666 Q611.2969,315.5566 611.5156,315.5566 Q611.8906,315.5566 612.125,315.8223 Q612.3594,316.0723 612.3594,316.6816 L612.3594,318.1348 Q612.3594,318.7441 612.125,319.0098 Q611.8906,319.2754 611.5156,319.2754 Q611.1719,319.2754 610.9688,319.0723 Q610.7656,318.8848 610.6563,318.3691 Q610.6094,318.0098 610.4219,317.8223 Q610.0938,317.4473 609.4844,317.2285 Q608.875,317.0098 608.25,317.0098 Q607.4844,317.0098 606.8438,317.3379 Q606.2188,317.666 605.7188,318.416 Q605.2344,319.166 605.2344,320.1973 L605.2344,321.291 Q605.2344,322.5254 606.125,323.3535 Q607.0156,324.166 608.6094,324.166 Q609.5469,324.166 610.2031,323.916 Q610.5938,323.7598 611.0156,323.3223 Q611.2813,323.0566 611.4219,322.9785 Q611.5781,322.9004 611.7813,322.9004 Q612.1094,322.9004 612.3594,323.166 Q612.625,323.416 612.625,323.7598 Q612.625,324.1035 612.2813,324.5098 Q611.7813,325.0879 610.9844,325.416 Q609.9063,325.8691 608.6094,325.8691 Q607.0938,325.8691 605.8906,325.2441 Q604.9063,324.7441 604.2188,323.6816 Q603.5313,322.6035 603.5313,321.3223 L603.5313,320.166 Q603.5313,318.8379 604.1406,317.6973 Q604.7656,316.541 605.8594,315.9316 Q606.9531,315.3066 608.1875,315.3066 Q608.9219,315.3066 609.5625,315.4785 Q610.2188,315.6348 610.7656,315.9941 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="96" x="620" y="325.687">PlayController</text><line style="stroke:#000000;stroke-width:1.0;" x1="596" x2="718" y1="334.1191" y2="334.1191"/><line style="stroke:#000000;stroke-width:1.0;" x1="596" x2="718" y1="342.1191" y2="342.1191"/></g><!--MD5=[92433bfbd7559c1d4e4a44c9d1c48b0e]
+class ProposeCombinationController--><g id="elem_ProposeCombinationController"><rect codeLine="11" fill="#FFFFFF" height="44" id="ProposeCombinationController" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="242" x="363" y="416.1191"/><ellipse cx="376" cy="430.1191" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M378.7656,425.9941 Q378.9219,425.7754 379.1094,425.666 Q379.2969,425.5566 379.5156,425.5566 Q379.8906,425.5566 380.125,425.8223 Q380.3594,426.0723 380.3594,426.6816 L380.3594,428.1348 Q380.3594,428.7441 380.125,429.0098 Q379.8906,429.2754 379.5156,429.2754 Q379.1719,429.2754 378.9688,429.0723 Q378.7656,428.8848 378.6563,428.3691 Q378.6094,428.0098 378.4219,427.8223 Q378.0938,427.4473 377.4844,427.2285 Q376.875,427.0098 376.25,427.0098 Q375.4844,427.0098 374.8438,427.3379 Q374.2188,427.666 373.7188,428.416 Q373.2344,429.166 373.2344,430.1973 L373.2344,431.291 Q373.2344,432.5254 374.125,433.3535 Q375.0156,434.166 376.6094,434.166 Q377.5469,434.166 378.2031,433.916 Q378.5938,433.7598 379.0156,433.3223 Q379.2813,433.0566 379.4219,432.9785 Q379.5781,432.9004 379.7813,432.9004 Q380.1094,432.9004 380.3594,433.166 Q380.625,433.416 380.625,433.7598 Q380.625,434.1035 380.2813,434.5098 Q379.7813,435.0879 378.9844,435.416 Q377.9063,435.8691 376.6094,435.8691 Q375.0938,435.8691 373.8906,435.2441 Q372.9063,434.7441 372.2188,433.6816 Q371.5313,432.6035 371.5313,431.3223 L371.5313,430.166 Q371.5313,428.8379 372.1406,427.6973 Q372.7656,426.541 373.8594,425.9316 Q374.9531,425.3066 376.1875,425.3066 Q376.9219,425.3066 377.5625,425.4785 Q378.2188,425.6348 378.7656,425.9941 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="214" x="388" y="435.687">ProposeCombinationController</text><line style="stroke:#000000;stroke-width:1.0;" x1="364" x2="604" y1="444.1191" y2="444.1191"/><line style="stroke:#000000;stroke-width:1.0;" x1="364" x2="604" y1="452.1191" y2="452.1191"/></g><!--MD5=[aab9612c5d46aa221e996c7d0ed5d7ab]
+class UndoController--><g id="elem_UndoController"><rect codeLine="12" fill="#FFFFFF" height="44" id="UndoController" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="134" x="640" y="416.1191"/><ellipse cx="653" cy="430.1191" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M655.7656,425.9941 Q655.9219,425.7754 656.1094,425.666 Q656.2969,425.5566 656.5156,425.5566 Q656.8906,425.5566 657.125,425.8223 Q657.3594,426.0723 657.3594,426.6816 L657.3594,428.1348 Q657.3594,428.7441 657.125,429.0098 Q656.8906,429.2754 656.5156,429.2754 Q656.1719,429.2754 655.9688,429.0723 Q655.7656,428.8848 655.6563,428.3691 Q655.6094,428.0098 655.4219,427.8223 Q655.0938,427.4473 654.4844,427.2285 Q653.875,427.0098 653.25,427.0098 Q652.4844,427.0098 651.8438,427.3379 Q651.2188,427.666 650.7188,428.416 Q650.2344,429.166 650.2344,430.1973 L650.2344,431.291 Q650.2344,432.5254 651.125,433.3535 Q652.0156,434.166 653.6094,434.166 Q654.5469,434.166 655.2031,433.916 Q655.5938,433.7598 656.0156,433.3223 Q656.2813,433.0566 656.4219,432.9785 Q656.5781,432.9004 656.7813,432.9004 Q657.1094,432.9004 657.3594,433.166 Q657.625,433.416 657.625,433.7598 Q657.625,434.1035 657.2813,434.5098 Q656.7813,435.0879 655.9844,435.416 Q654.9063,435.8691 653.6094,435.8691 Q652.0938,435.8691 650.8906,435.2441 Q649.9063,434.7441 649.2188,433.6816 Q648.5313,432.6035 648.5313,431.3223 L648.5313,430.166 Q648.5313,428.8379 649.1406,427.6973 Q649.7656,426.541 650.8594,425.9316 Q651.9531,425.3066 653.1875,425.3066 Q653.9219,425.3066 654.5625,425.4785 Q655.2188,425.6348 655.7656,425.9941 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="106" x="665" y="435.687">UndoController</text><line style="stroke:#000000;stroke-width:1.0;" x1="641" x2="773" y1="444.1191" y2="444.1191"/><line style="stroke:#000000;stroke-width:1.0;" x1="641" x2="773" y1="452.1191" y2="452.1191"/></g><!--MD5=[09632e2f294dd01282ddf91519a686d7]
+class RedoController--><g id="elem_RedoController"><rect codeLine="13" fill="#FFFFFF" height="44" id="RedoController" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="133" x="194.5" y="416.1191"/><ellipse cx="207.5" cy="430.1191" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M210.2656,425.9941 Q210.4219,425.7754 210.6094,425.666 Q210.7969,425.5566 211.0156,425.5566 Q211.3906,425.5566 211.625,425.8223 Q211.8594,426.0723 211.8594,426.6816 L211.8594,428.1348 Q211.8594,428.7441 211.625,429.0098 Q211.3906,429.2754 211.0156,429.2754 Q210.6719,429.2754 210.4688,429.0723 Q210.2656,428.8848 210.1563,428.3691 Q210.1094,428.0098 209.9219,427.8223 Q209.5938,427.4473 208.9844,427.2285 Q208.375,427.0098 207.75,427.0098 Q206.9844,427.0098 206.3438,427.3379 Q205.7188,427.666 205.2188,428.416 Q204.7344,429.166 204.7344,430.1973 L204.7344,431.291 Q204.7344,432.5254 205.625,433.3535 Q206.5156,434.166 208.1094,434.166 Q209.0469,434.166 209.7031,433.916 Q210.0938,433.7598 210.5156,433.3223 Q210.7813,433.0566 210.9219,432.9785 Q211.0781,432.9004 211.2813,432.9004 Q211.6094,432.9004 211.8594,433.166 Q212.125,433.416 212.125,433.7598 Q212.125,434.1035 211.7813,434.5098 Q211.2813,435.0879 210.4844,435.416 Q209.4063,435.8691 208.1094,435.8691 Q206.5938,435.8691 205.3906,435.2441 Q204.4063,434.7441 203.7188,433.6816 Q203.0313,432.6035 203.0313,431.3223 L203.0313,430.166 Q203.0313,428.8379 203.6406,427.6973 Q204.2656,426.541 205.3594,425.9316 Q206.4531,425.3066 207.6875,425.3066 Q208.4219,425.3066 209.0625,425.4785 Q209.7188,425.6348 210.2656,425.9941 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="105" x="219.5" y="435.687">RedoController</text><line style="stroke:#000000;stroke-width:1.0;" x1="195.5" x2="326.5" y1="444.1191" y2="444.1191"/><line style="stroke:#000000;stroke-width:1.0;" x1="195.5" x2="326.5" y1="452.1191" y2="452.1191"/></g><!--MD5=[f85404c7f6f4e11de0322e40335fa6aa]
+class SaveController--><g id="elem_SaveController"><rect codeLine="14" fill="#FFFFFF" height="44" id="SaveController" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="131" x="72.5" y="306.1191"/><ellipse cx="85.5" cy="320.1191" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M88.2656,315.9941 Q88.4219,315.7754 88.6094,315.666 Q88.7969,315.5566 89.0156,315.5566 Q89.3906,315.5566 89.625,315.8223 Q89.8594,316.0723 89.8594,316.6816 L89.8594,318.1348 Q89.8594,318.7441 89.625,319.0098 Q89.3906,319.2754 89.0156,319.2754 Q88.6719,319.2754 88.4688,319.0723 Q88.2656,318.8848 88.1563,318.3691 Q88.1094,318.0098 87.9219,317.8223 Q87.5938,317.4473 86.9844,317.2285 Q86.375,317.0098 85.75,317.0098 Q84.9844,317.0098 84.3438,317.3379 Q83.7188,317.666 83.2188,318.416 Q82.7344,319.166 82.7344,320.1973 L82.7344,321.291 Q82.7344,322.5254 83.625,323.3535 Q84.5156,324.166 86.1094,324.166 Q87.0469,324.166 87.7031,323.916 Q88.0938,323.7598 88.5156,323.3223 Q88.7813,323.0566 88.9219,322.9785 Q89.0781,322.9004 89.2813,322.9004 Q89.6094,322.9004 89.8594,323.166 Q90.125,323.416 90.125,323.7598 Q90.125,324.1035 89.7813,324.5098 Q89.2813,325.0879 88.4844,325.416 Q87.4063,325.8691 86.1094,325.8691 Q84.5938,325.8691 83.3906,325.2441 Q82.4063,324.7441 81.7188,323.6816 Q81.0313,322.6035 81.0313,321.3223 L81.0313,320.166 Q81.0313,318.8379 81.6406,317.6973 Q82.2656,316.541 83.3594,315.9316 Q84.4531,315.3066 85.6875,315.3066 Q86.4219,315.3066 87.0625,315.4785 Q87.7188,315.6348 88.2656,315.9941 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="103" x="97.5" y="325.687">SaveController</text><line style="stroke:#000000;stroke-width:1.0;" x1="73.5" x2="202.5" y1="334.1191" y2="334.1191"/><line style="stroke:#000000;stroke-width:1.0;" x1="73.5" x2="202.5" y1="342.1191" y2="342.1191"/></g><!--MD5=[20f01773b9667c744e5118bba2278641]
+class ExitController--><g id="elem_ExitController"><rect codeLine="15" fill="#FFFFFF" height="44" id="ExitController" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="124" x="35" y="416.1191"/><ellipse cx="48" cy="430.1191" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M50.7656,425.9941 Q50.9219,425.7754 51.1094,425.666 Q51.2969,425.5566 51.5156,425.5566 Q51.8906,425.5566 52.125,425.8223 Q52.3594,426.0723 52.3594,426.6816 L52.3594,428.1348 Q52.3594,428.7441 52.125,429.0098 Q51.8906,429.2754 51.5156,429.2754 Q51.1719,429.2754 50.9688,429.0723 Q50.7656,428.8848 50.6563,428.3691 Q50.6094,428.0098 50.4219,427.8223 Q50.0938,427.4473 49.4844,427.2285 Q48.875,427.0098 48.25,427.0098 Q47.4844,427.0098 46.8438,427.3379 Q46.2188,427.666 45.7188,428.416 Q45.2344,429.166 45.2344,430.1973 L45.2344,431.291 Q45.2344,432.5254 46.125,433.3535 Q47.0156,434.166 48.6094,434.166 Q49.5469,434.166 50.2031,433.916 Q50.5938,433.7598 51.0156,433.3223 Q51.2813,433.0566 51.4219,432.9785 Q51.5781,432.9004 51.7813,432.9004 Q52.1094,432.9004 52.3594,433.166 Q52.625,433.416 52.625,433.7598 Q52.625,434.1035 52.2813,434.5098 Q51.7813,435.0879 50.9844,435.416 Q49.9063,435.8691 48.6094,435.8691 Q47.0938,435.8691 45.8906,435.2441 Q44.9063,434.7441 44.2188,433.6816 Q43.5313,432.6035 43.5313,431.3223 L43.5313,430.166 Q43.5313,428.8379 44.1406,427.6973 Q44.7656,426.541 45.8594,425.9316 Q46.9531,425.3066 48.1875,425.3066 Q48.9219,425.3066 49.5625,425.4785 Q50.2188,425.6348 50.7656,425.9941 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="96" x="60" y="435.687">ExitController</text><line style="stroke:#000000;stroke-width:1.0;" x1="36" x2="158" y1="444.1191" y2="444.1191"/><line style="stroke:#000000;stroke-width:1.0;" x1="36" x2="158" y1="452.1191" y2="452.1191"/></g><!--MD5=[1a47bbf44ccee225df9b18c5b6629853]
+class ResumeController--><g id="elem_ResumeController"><rect codeLine="16" fill="#FFFFFF" height="44" id="ResumeController" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="153" x="238.5" y="306.1191"/><ellipse cx="251.5" cy="320.1191" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M254.2656,315.9941 Q254.4219,315.7754 254.6094,315.666 Q254.7969,315.5566 255.0156,315.5566 Q255.3906,315.5566 255.625,315.8223 Q255.8594,316.0723 255.8594,316.6816 L255.8594,318.1348 Q255.8594,318.7441 255.625,319.0098 Q255.3906,319.2754 255.0156,319.2754 Q254.6719,319.2754 254.4688,319.0723 Q254.2656,318.8848 254.1563,318.3691 Q254.1094,318.0098 253.9219,317.8223 Q253.5938,317.4473 252.9844,317.2285 Q252.375,317.0098 251.75,317.0098 Q250.9844,317.0098 250.3438,317.3379 Q249.7188,317.666 249.2188,318.416 Q248.7344,319.166 248.7344,320.1973 L248.7344,321.291 Q248.7344,322.5254 249.625,323.3535 Q250.5156,324.166 252.1094,324.166 Q253.0469,324.166 253.7031,323.916 Q254.0938,323.7598 254.5156,323.3223 Q254.7813,323.0566 254.9219,322.9785 Q255.0781,322.9004 255.2813,322.9004 Q255.6094,322.9004 255.8594,323.166 Q256.125,323.416 256.125,323.7598 Q256.125,324.1035 255.7813,324.5098 Q255.2813,325.0879 254.4844,325.416 Q253.4063,325.8691 252.1094,325.8691 Q250.5938,325.8691 249.3906,325.2441 Q248.4063,324.7441 247.7188,323.6816 Q247.0313,322.6035 247.0313,321.3223 L247.0313,320.166 Q247.0313,318.8379 247.6406,317.6973 Q248.2656,316.541 249.3594,315.9316 Q250.4531,315.3066 251.6875,315.3066 Q252.4219,315.3066 253.0625,315.4785 Q253.7188,315.6348 254.2656,315.9941 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="125" x="263.5" y="325.687">ResumeController</text><line style="stroke:#000000;stroke-width:1.0;" x1="239.5" x2="390.5" y1="334.1191" y2="334.1191"/><line style="stroke:#000000;stroke-width:1.0;" x1="239.5" x2="390.5" y1="342.1191" y2="342.1191"/></g><path d="M845.5,301.1191 L896.5,301.1191 A3.75,3.75 0 0 1 899,303.6191 L906,324.1338 L910.5,324.1338 A2.5,2.5 0 0 1 913,326.6338 L913,352.6484 A2.5,2.5 0 0 1 910.5,355.1484 L845.5,355.1484 A2.5,2.5 0 0 1 843,352.6484 L843,303.6191 A2.5,2.5 0 0 1 845.5,301.1191 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="843" x2="906" y1="324.1338" y2="324.1338"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="50" x="847" y="317.1943">models</text><path d="M871.5,186.1191 L898.5,186.1191 A3.75,3.75 0 0 1 901,188.6191 L908,209.1338 L912.5,209.1338 A2.5,2.5 0 0 1 915,211.6338 L915,237.6484 A2.5,2.5 0 0 1 912.5,240.1484 L871.5,240.1484 A2.5,2.5 0 0 1 869,237.6484 L869,188.6191 A2.5,2.5 0 0 1 871.5,186.1191 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="869" x2="908" y1="209.1338" y2="209.1338"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="26" x="873" y="202.1943">dao</text><!--MD5=[74747deda5a68dee2e4ac9657f89203b]
+reverse link Controller to AceptorController--><g id="link_Controller_AceptorController"><path codeLine="19" d="M251.39,125.4391 C267.13,146.8891 286.33,173.0491 299.49,190.9791 " fill="none" id="Controller-backto-AceptorController" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="245.63,129.4191,239.44,109.1491,256.91,121.1391,245.63,129.4191" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[acdb7a82aeb9ae5bd312a5c0d10b7c22]
+reverse link Controller to ExitController--><g id="link_Controller_ExitController"><path codeLine="20" d="M183.84,122.7791 C142.43,161.4191 80.43,228.1591 55,301.1191 C41.01,341.2591 64.78,388.8491 81.88,415.7691 " fill="none" id="Controller-backto-ExitController" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="179.33,117.4091,198.84,109.1491,188.74,127.7791,179.33,117.4091" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[b33e6e7a9cea4a9afba1ef8faec67684]
+reverse link Logic to LogicImplementation--><g id="link_Logic_LogicImplementation"><path codeLine="21" d="M437.67,124.4791 C456.5,146.1091 479.74,172.7791 495.59,190.9791 " fill="none" id="Logic-backto-LogicImplementation" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="432.18,128.8291,424.32,109.1491,442.73,119.6391,432.18,128.8291" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[29bc9954a417b70212943e07edb45cfd]
+reverse link AceptorController to PlayController--><g id="link_AceptorController_PlayController"><path codeLine="22" d="M398.25,241.6291 C458.9,261.6691 539.75,288.3791 594.83,306.5791 " fill="none" id="AceptorController-backto-PlayController" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="395.72,248.1591,378.93,235.2391,400.11,234.8691,395.72,248.1591" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[848db7d052950908888f1c33bae3dc51]
+reverse link AceptorController to StartController--><g id="link_AceptorController_StartController"><path codeLine="23" d="M365.7,246.3091 C395.85,265.4391 433.23,289.1791 459.67,305.9591 " fill="none" id="AceptorController-backto-StartController" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="361.61,251.9991,348.48,235.3691,369.12,240.1791,361.61,251.9991" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[5b97d9644116906cf0faf11065112dd9]
+reverse link AceptorController to SaveController--><g id="link_AceptorController_SaveController"><path codeLine="24" d="M264.58,246.3091 C234.61,265.4391 197.43,289.1791 171.14,305.9591 " fill="none" id="AceptorController-backto-SaveController" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="261.08,240.2391,281.71,235.3691,268.62,252.0391,261.08,240.2391" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[815dabef79c999b02d8cd0f8cddcac5c]
+reverse link AceptorController to ResumeController--><g id="link_AceptorController_ResumeController"><path codeLine="25" d="M315,255.4891 C315,272.6291 315,291.7791 315,305.9591 " fill="none" id="AceptorController-backto-ResumeController" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="308,255.3691,315,235.3691,322,255.3691,308,255.3691" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[a6d31769ba14c8fd490c4e4df48c0dbf]
+link Logic to AceptorController--><g id="link_Logic_AceptorController"><path codeLine="27" d="M383.4574,118.8214 C383.4574,118.8214 351.93,161.7891 338.29,180.3891 " fill="none" id="Logic-AceptorController" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="330.51,190.9791,339.0599,186.0905,333.4685,186.9483,332.6106,181.3569,330.51,190.9791" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="333.4685" x2="338.205" y1="186.9483" y2="180.4991"/><polygon fill="none" points="390.56,109.1491,383.7846,111.6177,383.4574,118.8214,390.2328,116.3528,390.56,109.1491" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="8" x="367" y="153.189">4</text></g><!--MD5=[101fb55fbd90817b7b97a9ff5876cd1e]
+link PlayController to ProposeCombinationController--><g id="link_PlayController_ProposeCombinationController"><path codeLine="28" d="M613.0511,356.5544 C613.0511,356.5544 554.49,393.1091 528.93,409.0691 " fill="none" id="PlayController-ProposeCombinationController" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="517.68,416.0891,527.4326,414.7157,521.9212,413.4411,523.1958,407.9297,517.68,416.0891" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="521.9212" x2="528.71" y1="413.4411" y2="409.2091"/><polygon fill="#000000" points="623.23,350.1991,616.0221,349.9838,613.0511,356.5544,620.2589,356.7697,623.23,350.1991" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[3d98fd2530f9a405d1421cab8b1042b6]
+link PlayController to UndoController--><g id="link_PlayController_UndoController"><path codeLine="29" d="M671.7971,361.0908 C671.7971,361.0908 685.56,390.8191 691.71,404.0991 " fill="none" id="PlayController-UndoController" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="697.27,416.0891,697.1129,406.2415,695.1667,411.553,689.8552,409.6068,697.27,416.0891" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="695.1667" x2="691.8" y1="411.553" y2="404.2941"/><polygon fill="#000000" points="666.76,350.1991,665.648,357.324,671.7971,361.0908,672.9091,353.9659,666.76,350.1991" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[6d595a1a65a7de41738ecad9df169bac]
+link PlayController to RedoController--><g id="link_PlayController_RedoController"><path codeLine="30" d="M583.1796,353.272 C583.1796,353.272 578.71,354.6191 577,355.1191 C533.06,367.9491 418.79,397.2291 340.42,417.0891 " fill="none" id="PlayController-RedoController" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="327.68,420.3191,337.3877,421.9807,332.5262,419.0884,335.4185,414.2268,327.68,420.3191" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="332.5262" x2="340.28" y1="419.0884" y2="417.1291"/><polygon fill="#000000" points="594.66,349.7791,587.7555,347.6988,583.1796,353.272,590.0841,355.3524,594.66,349.7791" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[b9449f1600a3a892684cbb1cf96338c9]
+link PlayController to ExitController--><g id="link_PlayController_ExitController"><path codeLine="31" d="M584.128,353.3355 C584.128,353.3355 579,354.6391 577,355.1191 C402.02,396.6091 353.1,379.6791 177,416.1191 C175.38,416.4591 173.74,416.7991 172.09,417.1591 " fill="none" id="PlayController-ExitController" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="159.3,420.0891,168.9655,421.9805,164.174,418.9737,167.1808,414.1821,159.3,420.0891" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="164.174" x2="171.975" y1="418.9737" y2="417.1841"/><polygon fill="#000000" points="595.7,350.1591,588.8552,347.89,584.128,353.3355,590.9728,355.6046,595.7,350.1591" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[6bfde5656e7ece32836aeea1e9e8a819]
+link controllers to models--><g id="link_controllers_models"><path codeLine="33" d="M806.0541,112.1781 C806.1298,112.4042 806.2059,112.6316 806.2825,112.8602 C811.1819,127.4951 817.8475,147.4085 825.1525,169.2329 C839.7625,212.8816 856.93,264.1741 867.64,296.1691 " fill="none" id="controllers-to-models" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="869.26,301.0091,870.1998,291.2052,867.6746,296.2672,862.6126,293.7419,869.26,301.0091" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[f4abaca96244997aac232120d6de2d55]
+link dao to models--><g id="link_dao_models"><path codeLine="38" d="M888.75,240.3291 C886.7,256.8691 884.04,278.3391 881.88,295.7791 " fill="none" id="dao-to-models" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="881.23,301.0491,886.3064,292.6094,881.8449,296.0871,878.3672,291.6255,881.23,301.0491" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[a38ad9de73cdfafa14345aeed1f511b1]
+link controllers to dao--><g id="link_controllers_dao"><path codeLine="39" d="M806.155,96.9556 C806.2081,97.0139 806.2614,97.0724 806.3149,97.1312 C806.4219,97.2488 806.5297,97.3673 806.6383,97.4868 C807.0726,97.9645 807.5194,98.457 807.9777,98.9633 C809.8113,100.9885 811.83,103.2354 813.975,105.6491 C822.555,115.3041 833.155,127.6291 842,139.1191 C852.44,152.6791 863.26,168.2591 872.16,181.5391 " fill="none" id="controllers-to-dao" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="875.1,185.9491,873.4359,176.2419,872.3265,181.7889,866.7795,180.6795,875.1,185.9491" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[bdf04f1815c124437e31cc51c6a9a7a6]
+@startuml analysis-controllers-core
+!theme plain
+top to bottom direction
+
+package controllers {
+    abstract Controller
+    abstract AceptorController
+    abstract Logic
+    class LogicImplementation
+    class StartController
+    class PlayController
+    class ProposeCombinationController
+    class UndoController
+    class RedoController
+    class SaveController
+    class ExitController
+    class ResumeController
+}
+
+AceptorController -up-|> Controller
+ExitController -up-|> Controller
+LogicImplementation -up-|> Logic
+PlayController -up-|> AceptorController
+StartController -up-|> AceptorController
+SaveController -up-|> AceptorController
+ResumeController -up-|> AceptorController
+
+Logic o- -> AceptorController :4
+PlayController *-down-> ProposeCombinationController
+PlayController *-down-> UndoController
+PlayController *-down-> RedoController
+PlayController *-down-> ExitController
+
+controllers .down.> models
+
+package models{ 
+}
+
+dao ..> models
+controllers .down.> dao
+
+package dao{
+}
+
+@enduml
+
+@startuml analysis-controllers-core
+
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor white
+    FontColor black
+    FontName Verdana
+    HyperLinkColor blue
+    LineColor black
+    LineThickness 1
+    Margin 5
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  header {
+    LineThickness 0
+  }
+  node {
+    MaximumWidth 300
+  }
+  title {
+    FontSize 22
+    LineThickness 0
+  }
+</style>
+
+skinparam ArrowLollipopColor black
+skinparam BackgroundColor white
+skinparam DefaultFontName Verdana
+skinparam DefaultMonospacedFontName Courier
+skinparam LifelineStrategy nosolid
+skinparam ParticipantPadding 10
+skinparam SequenceLifeLineBorderColor black
+skinparam Shadowing false
+skinparam UseBetaStyle true
+
+skinparam Activity {
+  BackgroundColor white
+  BarColor black
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam Boundary {
+  FontColor black
+}
+skinparam Box {
+  Padding 5
+}
+skinparam CircledCharacter {
+  FontColor black
+  FontName Courier
+  Radius 9
+}
+skinparam Class {
+  BackgroundColor white
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassAttribute {
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassStereotype {
+  FontColor black
+  FontName Verdana
+}
+skinparam Footer {
+  FontColor black
+  FontName Verdana
+}
+skinparam Header {
+  FontColor black
+  FontName Verdana
+}
+skinparam Hyperlink {
+  Color blue
+}
+skinparam IconPackage {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPrivate {
+  Color black
+  BackgroundColor white
+}
+skinparam IconProtected {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPublic {
+  Color black
+  BackgroundColor white
+}
+skinparam Note {
+  FontColor black
+  FontName Verdana
+}
+skinparam Object {
+  BorderColor black
+}
+skinparam Package {
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam State {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeA {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeC {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeE {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeI {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeN {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam UseCaseStereoType {
+  FontColor black
+  FontName Verdana
+}
+top to bottom direction
+
+package controllers {
+    abstract Controller
+    abstract AceptorController
+    abstract Logic
+    class LogicImplementation
+    class StartController
+    class PlayController
+    class ProposeCombinationController
+    class UndoController
+    class RedoController
+    class SaveController
+    class ExitController
+    class ResumeController
+}
+
+AceptorController -up-|> Controller
+ExitController -up-|> Controller
+LogicImplementation -up-|> Logic
+PlayController -up-|> AceptorController
+StartController -up-|> AceptorController
+SaveController -up-|> AceptorController
+ResumeController -up-|> AceptorController
+
+Logic o- -> AceptorController :4
+PlayController *-down-> ProposeCombinationController
+PlayController *-down-> UndoController
+PlayController *-down-> RedoController
+PlayController *-down-> ExitController
+
+controllers .down.> models
+
+package models{ 
+}
+
+dao ..> models
+controllers .down.> dao
+
+package dao{
+}
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 12:01:30 CDT 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1252
+Language: es
+Country: MX
+--></g></svg>

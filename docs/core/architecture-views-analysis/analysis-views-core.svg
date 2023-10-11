@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="273px" preserveAspectRatio="none" style="width:405px;height:273px;background:#FFFFFF;" version="1.1" viewBox="0 0 405 273" width="405px" zoomAndPan="magnify"><defs/><g><!--MD5=[e2a75efa8a0f57c2afae8bf75386f79c]
+cluster views--><g id="cluster_views"><path d="M13.5,12.1191 L86.5,12.1191 A3.75,3.75 0 0 1 89,14.6191 L96,44.8564 L277.5,44.8564 A2.5,2.5 0 0 1 280,47.3564 L280,263.6191 A2.5,2.5 0 0 1 277.5,266.1191 L13.5,266.1191 A2.5,2.5 0 0 1 11,263.6191 L11,14.6191 A2.5,2.5 0 0 1 13.5,12.1191 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="11" x2="96" y1="44.8564" y2="44.8564"/><text fill="#000000" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="72" x="15" y="36.2373">views</text></g><!--MD5=[202eb055b61e3635d6abeb6d1809ebdd]
+class ControllerVisitor--><g id="elem_ControllerVisitor"><rect codeLine="4" fill="#FFFFFF" height="44" id="ControllerVisitor" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="145" x="35.5" y="65.1191"/><ellipse cx="48.5" cy="79.1191" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M49.4531,75.7598 L49.4531,82.416 L51.1719,82.416 Q51.7813,82.416 52.0469,82.6504 Q52.3125,82.8848 52.3125,83.2754 Q52.3125,83.6504 52.0469,83.8848 Q51.7813,84.1191 51.1719,84.1191 L46.0313,84.1191 Q45.4219,84.1191 45.1563,83.8848 Q44.8906,83.6504 44.8906,83.2598 Q44.8906,82.8848 45.1563,82.6504 Q45.4219,82.416 46.0313,82.416 L47.75,82.416 L47.75,75.7598 L46.0313,75.7598 Q45.4219,75.7598 45.1563,75.5254 Q44.8906,75.291 44.8906,74.9004 Q44.8906,74.5254 45.1563,74.291 Q45.4219,74.0566 46.0313,74.0566 L51.1719,74.0566 Q51.7813,74.0566 52.0469,74.291 Q52.3125,74.5254 52.3125,74.9004 Q52.3125,75.291 52.0469,75.5254 Q51.7813,75.7598 51.1719,75.7598 L49.4531,75.7598 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="117" x="60.5" y="84.687">ControllerVisitor</text><line style="stroke:#000000;stroke-width:1.0;" x1="36.5" x2="179.5" y1="93.1191" y2="93.1191"/><line style="stroke:#000000;stroke-width:1.0;" x1="36.5" x2="179.5" y1="101.1191" y2="101.1191"/></g><!--MD5=[c045e12321b83266d36d22b9096c24ea]
+class View--><g id="elem_View"><rect codeLine="5" fill="#FFFFFF" height="44" id="View" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="61" x="35.5" y="183.6191"/><ellipse cx="48.5" cy="197.6191" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M50.6875,199.3848 L46.5469,199.3848 L46.125,200.416 L46.5469,200.416 Q47.1563,200.416 47.4219,200.6504 Q47.6875,200.8848 47.6875,201.2754 Q47.6875,201.6504 47.4219,201.8848 Q47.1563,202.1191 46.5469,202.1191 L44.25,202.1191 Q43.6406,202.1191 43.3906,201.8848 Q43.125,201.6504 43.125,201.2598 Q43.125,200.8848 43.4063,200.6504 Q43.6719,200.4004 44.2969,200.416 L46.9688,193.7598 L45.8594,193.7598 Q45.25,193.7598 44.9844,193.5254 Q44.7188,193.291 44.7188,192.9004 Q44.7188,192.5254 44.9844,192.291 Q45.25,192.0566 45.8594,192.0566 L49.5313,192.0566 L52.9219,200.416 Q53.5156,200.416 53.7031,200.5566 Q54.0938,200.8223 54.0938,201.2754 Q54.0938,201.6504 53.8281,201.8848 Q53.5781,202.1191 52.9688,202.1191 L50.6719,202.1191 Q50.0625,202.1191 49.7969,201.8848 Q49.5313,201.6504 49.5313,201.2598 Q49.5313,200.8848 49.7969,200.6504 Q50.0625,200.416 50.6719,200.416 L51.0938,200.416 L50.6875,199.3848 Z M49.9688,197.6816 L48.6094,194.3066 L47.2344,197.6816 L49.9688,197.6816 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="33" x="60.5" y="203.187">View</text><line style="stroke:#000000;stroke-width:1.0;" x1="36.5" x2="95.5" y1="211.6191" y2="211.6191"/><line style="stroke:#000000;stroke-width:1.0;" x1="36.5" x2="95.5" y1="219.6191" y2="219.6191"/></g><g id="elem_GMN7"><path d="M132,169.1191 L132,201.6191 L96.52,205.6191 L132,209.6191 L132,242.3164 A0,0 0 0 0 132,242.3164 L248,242.3164 A0,0 0 0 0 248,242.3164 L248,179.1191 L238,169.1191 L132,169.1191 A0,0 0 0 0 132,169.1191 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.0;"/><path d="M238,169.1191 L238,179.1191 L248,179.1191 L238,169.1191 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="95" x="138" y="187.189">This has to be</text><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="74" x="138" y="202.9883">implmented</text><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="92" x="138" y="218.7876">for a specifict</text><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="73" x="138" y="234.5869">technology</text></g><path d="M306.5,178.6191 L381.5,178.6191 A3.75,3.75 0 0 1 384,181.1191 L391,201.6338 L395.5,201.6338 A2.5,2.5 0 0 1 398,204.1338 L398,230.1484 A2.5,2.5 0 0 1 395.5,232.6484 L306.5,232.6484 A2.5,2.5 0 0 1 304,230.1484 L304,181.1191 A2.5,2.5 0 0 1 306.5,178.6191 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="304" x2="391" y1="201.6338" y2="201.6338"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="74" x="308" y="194.6943">controllers</text><!--MD5=[f165b4dc51fb23ae2f8abee7a18efa47]
+reverse link ControllerVisitor to View--><g id="link_ControllerVisitor_View"><path codeLine="6" d="M93.57,128.1591 C86.89,146.6691 79.24,167.8991 73.69,183.2891 " fill="none" id="ControllerVisitor-backto-View" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="87.03,125.6591,100.39,109.2191,100.2,130.4091,87.03,125.6591" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[fd4dadafb7dfafd89665a9151015bafc]
+link views to controllers--><g id="link_views_controllers"><path codeLine="10" d="M280.0905,100.0429 C280.6003,100.7948 281.1297,101.5756 281.6775,102.3835 C282.773,103.9993 283.9418,105.723 285.1733,107.5393 C287.6363,111.1718 290.35,115.1741 293.23,119.4216 C304.75,136.4116 318.93,157.3241 330.36,174.1791 " fill="none" id="views-to-controllers" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="333.37,178.6191,331.6444,168.9226,330.5702,174.4766,325.0163,173.4023,333.37,178.6191" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[4ed0c0e038adcb50f21bfe749bf0e647]
+@startuml analysis-views-core
+!theme plain
+
+package views{
+    interface ControllerVisitor
+    abstract View
+    View -up-|> ControllerVisitor
+    note right of View :This has to be\nimplmented\nfor a specifict\ntechnology
+}
+
+views .down.> controllers
+
+package controllers {
+}
+
+
+@enduml
+
+@startuml analysis-views-core
+
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor white
+    FontColor black
+    FontName Verdana
+    HyperLinkColor blue
+    LineColor black
+    LineThickness 1
+    Margin 5
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  header {
+    LineThickness 0
+  }
+  node {
+    MaximumWidth 300
+  }
+  title {
+    FontSize 22
+    LineThickness 0
+  }
+</style>
+
+skinparam ArrowLollipopColor black
+skinparam BackgroundColor white
+skinparam DefaultFontName Verdana
+skinparam DefaultMonospacedFontName Courier
+skinparam LifelineStrategy nosolid
+skinparam ParticipantPadding 10
+skinparam SequenceLifeLineBorderColor black
+skinparam Shadowing false
+skinparam UseBetaStyle true
+
+skinparam Activity {
+  BackgroundColor white
+  BarColor black
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam Boundary {
+  FontColor black
+}
+skinparam Box {
+  Padding 5
+}
+skinparam CircledCharacter {
+  FontColor black
+  FontName Courier
+  Radius 9
+}
+skinparam Class {
+  BackgroundColor white
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassAttribute {
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassStereotype {
+  FontColor black
+  FontName Verdana
+}
+skinparam Footer {
+  FontColor black
+  FontName Verdana
+}
+skinparam Header {
+  FontColor black
+  FontName Verdana
+}
+skinparam Hyperlink {
+  Color blue
+}
+skinparam IconPackage {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPrivate {
+  Color black
+  BackgroundColor white
+}
+skinparam IconProtected {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPublic {
+  Color black
+  BackgroundColor white
+}
+skinparam Note {
+  FontColor black
+  FontName Verdana
+}
+skinparam Object {
+  BorderColor black
+}
+skinparam Package {
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam State {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeA {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeC {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeE {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeI {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeN {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam UseCaseStereoType {
+  FontColor black
+  FontName Verdana
+}
+
+package views{
+    interface ControllerVisitor
+    abstract View
+    View -up-|> ControllerVisitor
+    note right of View :This has to be\nimplmented\nfor a specifict\ntechnology
+}
+
+views .down.> controllers
+
+package controllers {
+}
+
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 12:01:30 CDT 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1252
+Language: es
+Country: MX
+--></g></svg>

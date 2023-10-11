@@ -1,6 +1,23 @@
 # Multiplatform master mind
 
-![Logo Image](https://raw.githubusercontent.com/PacoMorando/portfolio-web/f7f86e9743f5451cccfedf29ece8cfac64cd6ff4/src/assets/images/mastermind/master_mind_logo.svg)
+
+![Logo Image](docs\presentation\master_mind_logo.svg)
+### Index
+- **[Description](#description)**
+- **[Application development](#application-development)**
+- **[Documentation](#documentation)**
+  - **[Domain Model](#domain-model)**
+  - **[Use Case](#use-case)**
+  - **[Context Diagram](#context-diagram)**
+  - **[Colaboration Diagram 'Open Case'](#colaboration-diagram-open-case)**
+  - **[Colaboration Diagram 'ProposeCopmbination Case'](#colaboration-diagram-proposecombination-case)**
+  - **[Architecture](#architecture)**
+  - **[View Analysis Diagram](#view-analysis-diagram)**
+  - **[Controllers Analysis Diagram](#controllers-analysis-diagram)**
+  - **[DAOs Analysis Diagram](#daos-analysis-diagram)**
+  - **[Models Analysis Diagram](#models-analysis-diagram)**
+
+## Description
 
 This project is based on a modular design, where the application "core/business logic" is an independent module that exposes the corresponding interfaces so it can be implemented by different technologies for viewing and persistence.
 
@@ -31,12 +48,54 @@ This component exposes two interfaces, one for the view technology and another f
 
 
 
-![core component](https://raw.githubusercontent.com/PacoMorando/portfolio-web/f7f86e9743f5451cccfedf29ece8cfac64cd6ff4/src/assets/images/mastermind/master_mind_core_component.svg?token=AY7N5PABN22V3DERECFF5O3FERHJ4)
+![core component](docs\presentation\master_mind_core_component.svg)
 
 For example, [the console application](https://github.com/PacoMorando/master-mind-console)  implements views to display a text-based dashboard that shows the messages with the information extracted from the core component, thus the implementation It is only responsible for printing messages and validating user input data. To implement the persistence it uses FileWriter to save game data as plain text.
 
 [The android application](https://github.com/PacoMorando/master-mind-android) uses its view technology (Activities, Framents) and SQLite for the persistence of games.  
 In the case of web distribution, I developed a [Rest API](https://github.com/PacoMorando/master-mind-api) using SpringBoot. The API implements the view interface from the core (maven dependency) as "end points" that are exposed to be consumed by an [application website](https://github.com/PacoMorando/master-mind-web) that was developed in Angular. In this way the logic and control of execution flow remains in the backend.
 
-![MovilClient diagram ](https://raw.githubusercontent.com/PacoMorando/portfolio-web/f7f86e9743f5451cccfedf29ece8cfac64cd6ff4/src/assets/images/mastermind/master_mind_movil_client.svg?token=AY7N5PC65Z6GSXDWYXWLO5DFERHZQ)
-![enter image description here](https://raw.githubusercontent.com/PacoMorando/portfolio-web/f7f86e9743f5451cccfedf29ece8cfac64cd6ff4/src/assets/images/mastermind/master_mind_web_client2.svg?token=AY7N5PALOBGZV62XUE5UT4LFERHZU)
+![MovilClient diagram](docs\presentation\master_mind_movil_client.svg)
+![Web Client diagram](docs\presentation\master_mind_web_client.svg)
+
+## Documentation
+
+
+### Domain Model
+![Doman Model diagram](docs\core\domain_model\domain-mode-core.svg)
+
+
+### Use Case
+![Use Case diagram](docs\core\use_case\use-case-core.svg)
+
+
+### Context Diagram
+![Context diagram](docs\core\context\context-core.svg)
+
+
+### Colaboration Diagram Open Case
+![Colaboration diagram 'Open Case'](docs\core\colaboration-open\colaboration-propose-combination-core.svg)
+
+
+### Colaboration Diagram 'ProposeCombination Case'
+![Colaboration diagram 'ProposeCombination Case'](docs\core\colaboration_propose_combination\colaboration-propose-combination-core.svg)
+
+
+### Architecture
+![Architecture diagram](docs\core\architecture-analysis\analysis-architecture-core.svg)
+
+
+### View Analysis Diagram
+![View Analysis diagram](docs\core\architecture-views-analysis\analysis-views-core.svg)
+
+
+### Controllers Analysis Diagram
+![Controllers Analysis diagram](docs\core\architecture-controllers-analysis\analysis-controllers-core.svg)
+
+
+### DAOs Analysis Diagram
+![DAOs Analysis diagram](docs\core\architecture-dao-analysis\analysis-dao-core.svg)
+
+
+### Models Analysis Diagram
+![Models Analysis diagram](docs\core\architecture-models-analysis\analysis-models-core.svg)

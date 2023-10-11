@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="278px" preserveAspectRatio="none" style="width:444px;height:278px;background:#FFFFFF;" version="1.1" viewBox="0 0 444 278" width="444px" zoomAndPan="magnify"><defs/><g><!--MD5=[5622bc4ba3bf2be5d17935065b98c5f9]
+cluster dao--><g id="cluster_dao"><path d="M13.5,12.1191 L59.5,12.1191 A3.75,3.75 0 0 1 62,14.6191 L69,44.8564 L340.5,44.8564 A2.5,2.5 0 0 1 343,47.3564 L343,268.6191 A2.5,2.5 0 0 1 340.5,271.1191 L13.5,271.1191 A2.5,2.5 0 0 1 11,268.6191 L11,14.6191 A2.5,2.5 0 0 1 13.5,12.1191 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="11" x2="69" y1="44.8564" y2="44.8564"/><text fill="#000000" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="45" x="15" y="36.2373">dao</text></g><!--MD5=[ca6be132b13d95828dafe5441ce9283b]
+class SessionDTO--><g id="elem_SessionDTO"><rect codeLine="5" fill="#FFFFFF" height="44" id="SessionDTO" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="114" x="35" y="203.1191"/><ellipse cx="48" cy="217.1191" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M50.7656,212.9941 Q50.9219,212.7754 51.1094,212.666 Q51.2969,212.5566 51.5156,212.5566 Q51.8906,212.5566 52.125,212.8223 Q52.3594,213.0723 52.3594,213.6816 L52.3594,215.1348 Q52.3594,215.7441 52.125,216.0098 Q51.8906,216.2754 51.5156,216.2754 Q51.1719,216.2754 50.9688,216.0723 Q50.7656,215.8848 50.6563,215.3691 Q50.6094,215.0098 50.4219,214.8223 Q50.0938,214.4473 49.4844,214.2285 Q48.875,214.0098 48.25,214.0098 Q47.4844,214.0098 46.8438,214.3379 Q46.2188,214.666 45.7188,215.416 Q45.2344,216.166 45.2344,217.1973 L45.2344,218.291 Q45.2344,219.5254 46.125,220.3535 Q47.0156,221.166 48.6094,221.166 Q49.5469,221.166 50.2031,220.916 Q50.5938,220.7598 51.0156,220.3223 Q51.2813,220.0566 51.4219,219.9785 Q51.5781,219.9004 51.7813,219.9004 Q52.1094,219.9004 52.3594,220.166 Q52.625,220.416 52.625,220.7598 Q52.625,221.1035 52.2813,221.5098 Q51.7813,222.0879 50.9844,222.416 Q49.9063,222.8691 48.6094,222.8691 Q47.0938,222.8691 45.8906,222.2441 Q44.9063,221.7441 44.2188,220.6816 Q43.5313,219.6035 43.5313,218.3223 L43.5313,217.166 Q43.5313,215.8379 44.1406,214.6973 Q44.7656,213.541 45.8594,212.9316 Q46.9531,212.3066 48.1875,212.3066 Q48.9219,212.3066 49.5625,212.4785 Q50.2188,212.6348 50.7656,212.9941 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="86" x="60" y="222.687">SessionDTO</text><line style="stroke:#000000;stroke-width:1.0;" x1="36" x2="148" y1="231.1191" y2="231.1191"/><line style="stroke:#000000;stroke-width:1.0;" x1="36" x2="148" y1="239.1191" y2="239.1191"/></g><!--MD5=[250b219b3ae59285ac8946f943b1b497]
+class SessionDAO--><g id="elem_SessionDAO"><rect codeLine="6" fill="#FFFFFF" height="44" id="SessionDAO" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="113" x="35.5" y="79.6191"/><ellipse cx="48.5" cy="93.6191" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M50.6875,95.3848 L46.5469,95.3848 L46.125,96.416 L46.5469,96.416 Q47.1563,96.416 47.4219,96.6504 Q47.6875,96.8848 47.6875,97.2754 Q47.6875,97.6504 47.4219,97.8848 Q47.1563,98.1191 46.5469,98.1191 L44.25,98.1191 Q43.6406,98.1191 43.3906,97.8848 Q43.125,97.6504 43.125,97.2598 Q43.125,96.8848 43.4063,96.6504 Q43.6719,96.4004 44.2969,96.416 L46.9688,89.7598 L45.8594,89.7598 Q45.25,89.7598 44.9844,89.5254 Q44.7188,89.291 44.7188,88.9004 Q44.7188,88.5254 44.9844,88.291 Q45.25,88.0566 45.8594,88.0566 L49.5313,88.0566 L52.9219,96.416 Q53.5156,96.416 53.7031,96.5566 Q54.0938,96.8223 54.0938,97.2754 Q54.0938,97.6504 53.8281,97.8848 Q53.5781,98.1191 52.9688,98.1191 L50.6719,98.1191 Q50.0625,98.1191 49.7969,97.8848 Q49.5313,97.6504 49.5313,97.2598 Q49.5313,96.8848 49.7969,96.6504 Q50.0625,96.416 50.6719,96.416 L51.0938,96.416 L50.6875,95.3848 Z M49.9688,93.6816 L48.6094,90.3066 L47.2344,93.6816 L49.9688,93.6816 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="85" x="60.5" y="99.187">SessionDAO</text><line style="stroke:#000000;stroke-width:1.0;" x1="36.5" x2="147.5" y1="107.6191" y2="107.6191"/><line style="stroke:#000000;stroke-width:1.0;" x1="36.5" x2="147.5" y1="115.6191" y2="115.6191"/></g><g id="elem_GMN6"><path d="M184,65.1191 L184,97.6191 L148.54,101.6191 L184,105.6191 L184,138.3164 A0,0 0 0 0 184,138.3164 L300,138.3164 A0,0 0 0 0 300,138.3164 L300,75.1191 L290,65.1191 L184,65.1191 A0,0 0 0 0 184,65.1191 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.0;"/><path d="M290,65.1191 L290,75.1191 L300,75.1191 L290,65.1191 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="95" x="190" y="83.189">This has to be</text><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="74" x="190" y="98.9883">implmented</text><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="90" x="190" y="114.7876">by a specifict</text><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="73" x="190" y="130.5869">technology</text></g><path d="M369.5,198.1191 L420.5,198.1191 A3.75,3.75 0 0 1 423,200.6191 L430,221.1338 L434.5,221.1338 A2.5,2.5 0 0 1 437,223.6338 L437,249.6484 A2.5,2.5 0 0 1 434.5,252.1484 L369.5,252.1484 A2.5,2.5 0 0 1 367,249.6484 L367,200.6191 A2.5,2.5 0 0 1 369.5,198.1191 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="367" x2="430" y1="221.1338" y2="221.1338"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="50" x="371" y="214.1943">models</text><!--MD5=[fe810acaf3ec00b0e4cb78996ff84d3d]
+link SessionDAO to SessionDTO--><g id="link_SessionDAO_SessionDTO"><path codeLine="7" d="M92,135.7791 C92,135.7791 92,173.1891 92,189.7691 " fill="none" id="SessionDAO-SessionDTO" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="92,202.7891,96,193.7891,92,197.7891,88,193.7891,92,202.7891" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="92" x2="92" y1="197.7891" y2="189.7891"/><polygon fill="#000000" points="92,123.7791,88,129.7791,92,135.7791,96,129.7791,92,123.7791" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[f4abaca96244997aac232120d6de2d55]
+link dao to models--><g id="link_dao_models"><path codeLine="10" d="M343.1495,117.3978 C343.208,117.5037 343.2666,117.6101 343.3255,117.7169 C344.2679,119.4259 345.2731,121.2487 346.332,123.1688 C348.4497,127.0091 350.7819,131.2382 353.255,135.7229 C363.1475,153.6616 375.295,175.6891 384.99,193.2691 " fill="none" id="dao-to-models" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="387.53,197.8891,386.6804,188.077,385.1127,193.5123,379.6774,191.9446,387.53,197.8891" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[f7ebf441852a780e487964080bd7430c]
+@startuml analysis-dao-core
+!theme plain
+top to bottom direction
+
+package dao{
+    class SessionDTO
+    abstract SessionDAO
+    SessionDAO *- -> SessionDTO
+    note right of SessionDAO :This has to be\nimplmented\nby a specifict\ntechnology
+}
+dao ..> models
+
+package models {
+}
+
+@enduml
+
+@startuml analysis-dao-core
+
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor white
+    FontColor black
+    FontName Verdana
+    HyperLinkColor blue
+    LineColor black
+    LineThickness 1
+    Margin 5
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  header {
+    LineThickness 0
+  }
+  node {
+    MaximumWidth 300
+  }
+  title {
+    FontSize 22
+    LineThickness 0
+  }
+</style>
+
+skinparam ArrowLollipopColor black
+skinparam BackgroundColor white
+skinparam DefaultFontName Verdana
+skinparam DefaultMonospacedFontName Courier
+skinparam LifelineStrategy nosolid
+skinparam ParticipantPadding 10
+skinparam SequenceLifeLineBorderColor black
+skinparam Shadowing false
+skinparam UseBetaStyle true
+
+skinparam Activity {
+  BackgroundColor white
+  BarColor black
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam Boundary {
+  FontColor black
+}
+skinparam Box {
+  Padding 5
+}
+skinparam CircledCharacter {
+  FontColor black
+  FontName Courier
+  Radius 9
+}
+skinparam Class {
+  BackgroundColor white
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassAttribute {
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassStereotype {
+  FontColor black
+  FontName Verdana
+}
+skinparam Footer {
+  FontColor black
+  FontName Verdana
+}
+skinparam Header {
+  FontColor black
+  FontName Verdana
+}
+skinparam Hyperlink {
+  Color blue
+}
+skinparam IconPackage {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPrivate {
+  Color black
+  BackgroundColor white
+}
+skinparam IconProtected {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPublic {
+  Color black
+  BackgroundColor white
+}
+skinparam Note {
+  FontColor black
+  FontName Verdana
+}
+skinparam Object {
+  BorderColor black
+}
+skinparam Package {
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam State {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeA {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeC {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeE {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeI {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeN {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam UseCaseStereoType {
+  FontColor black
+  FontName Verdana
+}
+top to bottom direction
+
+package dao{
+    class SessionDTO
+    abstract SessionDAO
+    SessionDAO *- -> SessionDTO
+    note right of SessionDAO :This has to be\nimplmented\nby a specifict\ntechnology
+}
+dao ..> models
+
+package models {
+}
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 12:01:30 CDT 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1252
+Language: es
+Country: MX
+--></g></svg>

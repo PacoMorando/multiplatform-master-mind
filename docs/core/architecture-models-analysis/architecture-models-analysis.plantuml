@@ -1,0 +1,37 @@
+@startuml analysis-models-core
+!theme plain
+top to bottom direction
+
+package models{
+    class Session
+    class State
+    Enum StateValue
+    class Game
+    class Registry
+    class Memento
+    class Result
+    class Combination
+    class ProposedCombination
+    class SecretCombination
+    Enum Colors
+}
+
+Session *--> Game
+Session *-down-> State
+Session *-down-> Registry
+State *-down-> StateValue :1
+Registry o--> Memento :1..MAX_NUMBER_OF_ATTEMPTS
+Registry --> Game
+Memento o--> ProposedCombination
+Game ..> Memento
+Game *--> Result
+Game *--> SecretCombination
+Game o--> ProposedCombination :0..MAX_NUMBER_OF_ATTEMPTS
+SecretCombination -down-|> Combination
+ProposedCombination -down-|> Combination
+Combination o-down-> Colors :MAX_COLORS_NUM
+Result o--> Colors :MAX_COLORS_NUM
+Result ..> ProposedCombination
+
+
+@enduml

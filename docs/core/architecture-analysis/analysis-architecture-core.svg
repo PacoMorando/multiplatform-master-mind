@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="414px" preserveAspectRatio="none" style="width:126px;height:414px;background:#FFFFFF;" version="1.1" viewBox="0 0 126 414" width="126px" zoomAndPan="magnify"><defs/><g><path d="M31.5,11 L70.5,11 A3.75,3.75 0 0 1 73,13.5 L80,34.0146 L84.5,34.0146 A2.5,2.5 0 0 1 87,36.5146 L87,62.5293 A2.5,2.5 0 0 1 84.5,65.0293 L31.5,65.0293 A2.5,2.5 0 0 1 29,62.5293 L29,13.5 A2.5,2.5 0 0 1 31.5,11 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="29" x2="80" y1="34.0146" y2="34.0146"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="38" x="33" y="27.0752">views</text><path d="M13.5,125 L88.5,125 A3.75,3.75 0 0 1 91,127.5 L98,148.0146 L102.5,148.0146 A2.5,2.5 0 0 1 105,150.5146 L105,176.5293 A2.5,2.5 0 0 1 102.5,179.0293 L13.5,179.0293 A2.5,2.5 0 0 1 11,176.5293 L11,127.5 A2.5,2.5 0 0 1 13.5,125 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="11" x2="98" y1="148.0146" y2="148.0146"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="74" x="15" y="141.0752">controllers</text><path d="M25.5,353 L76.5,353 A3.75,3.75 0 0 1 79,355.5 L86,376.0146 L90.5,376.0146 A2.5,2.5 0 0 1 93,378.5146 L93,404.5293 A2.5,2.5 0 0 1 90.5,407.0293 L25.5,407.0293 A2.5,2.5 0 0 1 23,404.5293 L23,355.5 A2.5,2.5 0 0 1 25.5,353 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="23" x2="86" y1="376.0146" y2="376.0146"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="50" x="27" y="369.0752">models</text><path d="M75.5,239 L102.5,239 A3.75,3.75 0 0 1 105,241.5 L112,262.0146 L116.5,262.0146 A2.5,2.5 0 0 1 119,264.5146 L119,290.5293 A2.5,2.5 0 0 1 116.5,293.0293 L75.5,293.0293 A2.5,2.5 0 0 1 73,290.5293 L73,241.5 A2.5,2.5 0 0 1 75.5,239 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="73" x2="112" y1="262.0146" y2="262.0146"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="26" x="77" y="255.0752">dao</text><!--MD5=[fd4dadafb7dfafd89665a9151015bafc]
+link views to controllers--><g id="link_views_controllers"><path d="M58,65.26 C58,81.55 58,102.57 58,119.72 " fill="none" id="views-to-controllers" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="58,124.91,62,115.91,58,119.91,54,115.91,58,124.91" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[6bfde5656e7ece32836aeea1e9e8a819]
+link controllers to models--><g id="link_controllers_models"><path d="M56.84,179.34 C56.15,196.36 55.35,218.98 55,239 C54.58,263 54.58,269 55,293 C55.31,310.98 56,331.07 56.63,347.31 " fill="none" id="controllers-to-models" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="56.84,352.66,60.476,343.5069,56.6396,347.664,52.4825,343.8276,56.84,352.66" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[a38ad9de73cdfafa14345aeed1f511b1]
+link controllers to dao--><g id="link_controllers_dao"><path d="M66.91,179.26 C72.48,195.69 79.69,216.93 85.54,234.16 " fill="none" id="controllers-to-dao" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="87.15,238.91,88.0633,229.1036,85.5517,234.1723,80.483,231.6608,87.15,238.91" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[f4abaca96244997aac232120d6de2d55]
+link dao to models--><g id="link_dao_models"><path d="M87.09,293.26 C81.52,309.69 74.31,330.93 68.46,348.16 " fill="none" id="dao-to-models" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="66.85,352.91,73.517,345.6608,68.4483,348.1723,65.9367,343.1036,66.85,352.91" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[a03247a3eb25c6906636afb5bcc3208b]
+@startuml analysis-architecture-core
+!theme plain
+top to bottom direction
+
+package views{
+}
+
+package controllers {
+}
+
+package models{
+}
+
+package dao{
+}
+
+views ..> controllers
+controllers ..> models
+controllers ..> dao
+dao ..> models
+
+@enduml
+
+@startuml analysis-architecture-core
+
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor white
+    FontColor black
+    FontName Verdana
+    HyperLinkColor blue
+    LineColor black
+    LineThickness 1
+    Margin 5
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  header {
+    LineThickness 0
+  }
+  node {
+    MaximumWidth 300
+  }
+  title {
+    FontSize 22
+    LineThickness 0
+  }
+</style>
+
+skinparam ArrowLollipopColor black
+skinparam BackgroundColor white
+skinparam DefaultFontName Verdana
+skinparam DefaultMonospacedFontName Courier
+skinparam LifelineStrategy nosolid
+skinparam ParticipantPadding 10
+skinparam SequenceLifeLineBorderColor black
+skinparam Shadowing false
+skinparam UseBetaStyle true
+
+skinparam Activity {
+  BackgroundColor white
+  BarColor black
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam Boundary {
+  FontColor black
+}
+skinparam Box {
+  Padding 5
+}
+skinparam CircledCharacter {
+  FontColor black
+  FontName Courier
+  Radius 9
+}
+skinparam Class {
+  BackgroundColor white
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassAttribute {
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassStereotype {
+  FontColor black
+  FontName Verdana
+}
+skinparam Footer {
+  FontColor black
+  FontName Verdana
+}
+skinparam Header {
+  FontColor black
+  FontName Verdana
+}
+skinparam Hyperlink {
+  Color blue
+}
+skinparam IconPackage {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPrivate {
+  Color black
+  BackgroundColor white
+}
+skinparam IconProtected {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPublic {
+  Color black
+  BackgroundColor white
+}
+skinparam Note {
+  FontColor black
+  FontName Verdana
+}
+skinparam Object {
+  BorderColor black
+}
+skinparam Package {
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam State {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeA {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeC {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeE {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeI {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeN {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam UseCaseStereoType {
+  FontColor black
+  FontName Verdana
+}
+top to bottom direction
+
+package views{
+}
+
+package controllers {
+}
+
+package models{
+}
+
+package dao{
+}
+
+views ..> controllers
+controllers ..> models
+controllers ..> dao
+dao ..> models
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 12:01:30 CDT 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1252
+Language: es
+Country: MX
+--></g></svg>

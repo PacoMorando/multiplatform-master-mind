@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="770px" preserveAspectRatio="none" style="width:433px;height:770px;background:#FFFFFF;" version="1.1" viewBox="0 0 433 770" width="433px" zoomAndPan="magnify"><defs/><g><ellipse cx="245.55" cy="21" fill="#000000" rx="10" ry="10" style="stroke:none;stroke-width:1.0;"/><ellipse cx="293.55" cy="754" fill="none" rx="10" ry="10" style="stroke:#000000;stroke-width:1.0;"/><ellipse cx="294.05" cy="754.5" fill="#000000" rx="6" ry="6" style="stroke:none;stroke-width:1.0;"/><g id="elem_openCondition"><polygon fill="#FFFFFF" points="163.55,219,175.55,231,163.55,243,151.55,231,163.55,219" style="stroke:#000000;stroke-width:1.0;"/></g><g id="elem_finishGameCondition"><polygon fill="#FFFFFF" points="195.55,431,207.55,443,195.55,455,183.55,443,195.55,431" style="stroke:#000000;stroke-width:1.0;"/></g><g id="elem_saveCondition"><polygon fill="#FFFFFF" points="235.55,532,247.55,544,235.55,556,223.55,544,235.55,532" style="stroke:#000000;stroke-width:1.0;"/></g><g id="INITIAL"><rect fill="#FFFFFF" height="50" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="72" x="209.55" y="92"/><line style="stroke:#000000;stroke-width:1.0;" x1="209.55" x2="281.55" y1="119.0146" y2="119.0146"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="52" x="219.55" y="111.0752">INITIAL</text></g><g id="IN_GAME"><rect fill="#FFFFFF" height="50" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="85" x="173.05" y="304"/><line style="stroke:#000000;stroke-width:1.0;" x1="173.05" x2="258.05" y1="331.0146" y2="331.0146"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="65" x="183.05" y="323.0752">IN_GAME</text></g><g id="RESUME"><rect fill="#FFFFFF" height="50" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="79" x="254.05" y="633"/><line style="stroke:#000000;stroke-width:1.0;" x1="254.05" x2="333.05" y1="660.0146" y2="660.0146"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="59" x="264.05" y="652.0752">RESUME</text></g><!--MD5=[09e5ac169f1ba7d9236aca7430cd24f8]
+link start to INITIAL--><g id="link_start_INITIAL"><path d="M245.55,31.01 C245.55,43.7 245.55,67.41 245.55,86.57 " fill="none" id="start-to-INITIAL" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="245.55,91.84,249.55,82.84,245.55,86.84,241.55,82.84,245.55,91.84" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[c6210ae09f2e397a3dfeeac0c7e340d4]
+link INITIAL to IN_GAME--><g id="link_INITIAL_IN_GAME"><path d="M242.11,142.09 C236.58,180.83 225.72,256.87 219.74,298.7 " fill="none" id="INITIAL-to-IN_GAME" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="219,303.87,224.2461,295.5346,219.7151,298.9214,216.3283,294.3904,219,303.87" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="34" x="232.55" y="236.5698">Start</text></g><!--MD5=[c13cefb87aa53807ff0d3ece2a9f0a83]
+link INITIAL to openCondition--><g id="link_INITIAL_openCondition"><path d="M211.5,142.14 C201.41,150.64 191.05,160.87 183.55,172 C174.59,185.29 169.26,203 166.38,215.34 " fill="none" id="INITIAL-to-openCondition" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="165.29,220.27,171.125,212.3357,166.361,215.3861,163.3107,210.6221,165.29,220.27" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="34" x="184.55" y="186.0698">Open</text></g><!--MD5=[65ae6d1e3b903c550d8e3b9dc82deb31]
+link openCondition to IN_GAME--><g id="link_openCondition_IN_GAME"><path d="M167.46,239.22 C174.27,251.78 188.65,278.33 199.92,299.14 " fill="none" id="openCondition-to-IN_GAME" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="202.42,303.76,201.6712,293.9396,200.0478,299.3586,194.6289,297.7352,202.42,303.76" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[22be9b275d8e4e5bbab05ae4428cd744]
+link openCondition to saveCondition--><g id="link_openCondition_saveCondition"><path d="M156.45,236.15 C126.17,254.41 11,329.81 46.55,401 C84.83,477.64 186.34,523.71 222.52,538.1 " fill="none" id="openCondition-to-saveCondition" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="227.37,540,220.4545,532.9874,222.7159,538.1726,217.5307,540.434,227.37,540" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="75" x="47.55" y="398.0698">[isFinished]</text></g><!--MD5=[7ac3f239e1d08dd8b468e254a6e249a9]
+link IN_GAME to finishGameCondition--><g id="link_IN_GAME_finishGameCondition"><path d="M172.92,347.51 C157.66,356.1 142.12,368.09 133.55,384 C120.35,408.51 160.37,428.42 182.27,437.18 " fill="none" id="IN_GAME-to-finishGameCondition" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="187.15,439.07,180.1901,432.1015,182.4844,437.2722,177.3137,439.5665,187.15,439.07" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="93" x="134.55" y="398.0698">ProposeComb.</text></g><!--MD5=[3659e1ccd58ed2ed1c10b88f540504dd]
+link finishGameCondition to IN_GAME--><g id="link_finishGameCondition_IN_GAME"><path d="M202.06,437.34 C210.93,430.53 226.43,416.93 232.55,401 C237.74,387.51 234.94,371.96 230.23,358.85 " fill="none" id="finishGameCondition-to-IN_GAME" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="228.42,354.14,227.9235,363.9763,230.2178,358.8056,235.3885,361.0999,228.42,354.14" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[5bfe482dba2b541f2522bc9a0fd35fee]
+link IN_GAME to IN_GAME--><g id="link_IN_GAME_IN_GAME"><path d="M258.2,319.01 C276.93,318.13 293.05,321.46 293.05,329 C293.05,335.83 279.81,339.21 263.39,339.12 " fill="none" id="IN_GAME-to-IN_GAME" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="258.2,338.99,267.0942,343.22,263.1983,339.1185,267.2998,335.2227,258.2,338.99" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="33" x="299.05" y="326.5698">Undo</text><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="32" x="299.55" y="342.3691">Redo</text></g><!--MD5=[55f638928b52a9e36d39fcb85679de76]
+link IN_GAME to saveCondition--><g id="link_IN_GAME_saveCondition"><path d="M240.59,354.06 C248.21,362.77 255.82,373.15 260.55,384 C278.65,425.48 270.66,439.83 273.55,485 C274.04,492.54 276.31,494.97 273.55,502 C268.13,515.82 255.62,527.76 246.43,535.14 " fill="none" id="IN_GAME-to-saveCondition" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="242.23,538.38,251.7976,536.0431,246.1867,535.3232,246.9067,529.7123,242.23,538.38" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="24" x="273.55" y="448.5698">Exit</text></g><!--MD5=[3dfeb8b10d9161e1d920b779c318848d]
+link finishGameCondition to saveCondition--><g id="link_finishGameCondition_saveCondition"><path d="M192.81,452.67 C189.61,464.39 185.57,485.69 192.55,502 C198.89,516.8 213.49,528.8 223.91,535.9 " fill="none" id="finishGameCondition-to-saveCondition" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="228.37,538.82,223.0278,530.5459,224.1857,536.083,218.6486,537.2408,228.37,538.82" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="75" x="193.55" y="499.0698">[isFinished]</text></g><!--MD5=[01e15294f9bc5699f034e0f3962bfa57]
+link saveCondition to RESUME--><g id="link_saveCondition_RESUME"><path d="M232.84,553.31 C229.51,564.99 225.18,586.64 232.55,603 C237.05,612.97 244.39,621.85 252.46,629.38 " fill="none" id="saveCondition-to-RESUME" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="256.46,632.97,252.4291,623.9838,252.7372,629.6323,247.0887,629.9404,256.46,632.97" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="33" x="233.55" y="600.0698">Save</text></g><!--MD5=[01e15294f9bc5699f034e0f3962bfa57]
+link saveCondition to RESUME--><g id="link_saveCondition_RESUME"><path d="M241.52,550.25 C249.45,557.53 263.41,571.45 271.55,586 C278.79,598.92 283.96,614.53 287.46,627.81 " fill="none" id="saveCondition-to-RESUME-1" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="288.77,632.97,290.4409,623.2639,287.5439,628.1227,282.6852,625.2257,288.77,632.97" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[50d25b28c0f3766653dd5f44039cd81f]
+link RESUME to end--><g id="link_RESUME_end"><path d="M293.55,683.21 C293.55,700.84 293.55,724.13 293.55,738.84 " fill="none" id="RESUME-to-end" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="293.55,743.84,297.55,734.84,293.55,738.84,289.55,734.84,293.55,743.84" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[bab3c0dcb5a49c343af176726adb0692]
+link RESUME to INITIAL--><g id="link_RESUME_INITIAL"><path d="M324.64,632.98 C347.48,612.4 374.55,580.52 374.55,545 C374.55,230 374.55,230 374.55,230 C374.55,182.74 324.57,150.92 286.83,133.63 " fill="none" id="RESUME-to-INITIAL" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="281.83,131.39,288.4064,138.7215,286.3925,133.4353,291.6788,131.4215,281.83,131.39" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="50" x="375.55" y="398.0698">Resume</text></g><!--MD5=[412702ec13587d8237109d5ca27096f9]
+@startuml context-core
+!theme plain
+top to bottom direction
+
+state start <<start>>
+state end <<end>>
+state openCondition <<choice>>
+state finishGameCondition <<choice>>
+state saveCondition <<choice>>
+state INITIAL
+state IN_GAME
+state RESUME
+
+start - -> INITIAL
+INITIAL - -> IN_GAME :Start
+INITIAL - -> openCondition :Open
+openCondition - -> IN_GAME
+openCondition - -> saveCondition :[isFinished]
+IN_GAME - -> finishGameCondition :ProposeComb.
+IN_GAME - -> IN_GAME :Undo\nRedo
+IN_GAME - -> saveCondition :Exit
+finishGameCondition - -> IN_GAME
+finishGameCondition - -> saveCondition :[isFinished]
+saveCondition - -> RESUME :Save
+saveCondition - -> RESUME 
+RESUME - -> end 
+RESUME - -> INITIAL :Resume
+
+@enduml
+
+@startuml context-core
+
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor white
+    FontColor black
+    FontName Verdana
+    HyperLinkColor blue
+    LineColor black
+    LineThickness 1
+    Margin 5
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  header {
+    LineThickness 0
+  }
+  node {
+    MaximumWidth 300
+  }
+  title {
+    FontSize 22
+    LineThickness 0
+  }
+</style>
+
+skinparam ArrowLollipopColor black
+skinparam BackgroundColor white
+skinparam DefaultFontName Verdana
+skinparam DefaultMonospacedFontName Courier
+skinparam LifelineStrategy nosolid
+skinparam ParticipantPadding 10
+skinparam SequenceLifeLineBorderColor black
+skinparam Shadowing false
+skinparam UseBetaStyle true
+
+skinparam Activity {
+  BackgroundColor white
+  BarColor black
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam Boundary {
+  FontColor black
+}
+skinparam Box {
+  Padding 5
+}
+skinparam CircledCharacter {
+  FontColor black
+  FontName Courier
+  Radius 9
+}
+skinparam Class {
+  BackgroundColor white
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassAttribute {
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassStereotype {
+  FontColor black
+  FontName Verdana
+}
+skinparam Footer {
+  FontColor black
+  FontName Verdana
+}
+skinparam Header {
+  FontColor black
+  FontName Verdana
+}
+skinparam Hyperlink {
+  Color blue
+}
+skinparam IconPackage {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPrivate {
+  Color black
+  BackgroundColor white
+}
+skinparam IconProtected {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPublic {
+  Color black
+  BackgroundColor white
+}
+skinparam Note {
+  FontColor black
+  FontName Verdana
+}
+skinparam Object {
+  BorderColor black
+}
+skinparam Package {
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam State {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeA {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeC {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeE {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeI {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeN {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam UseCaseStereoType {
+  FontColor black
+  FontName Verdana
+}
+top to bottom direction
+
+state start <<start>>
+state end <<end>>
+state openCondition <<choice>>
+state finishGameCondition <<choice>>
+state saveCondition <<choice>>
+state INITIAL
+state IN_GAME
+state RESUME
+
+start - -> INITIAL
+INITIAL - -> IN_GAME :Start
+INITIAL - -> openCondition :Open
+openCondition - -> IN_GAME
+openCondition - -> saveCondition :[isFinished]
+IN_GAME - -> finishGameCondition :ProposeComb.
+IN_GAME - -> IN_GAME :Undo\nRedo
+IN_GAME - -> saveCondition :Exit
+finishGameCondition - -> IN_GAME
+finishGameCondition - -> saveCondition :[isFinished]
+saveCondition - -> RESUME :Save
+saveCondition - -> RESUME 
+RESUME - -> end 
+RESUME - -> INITIAL :Resume
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 12:01:30 CDT 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1252
+Language: es
+Country: MX
+--></g></svg>

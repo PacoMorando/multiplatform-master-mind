@@ -1,0 +1,16 @@
+@startuml analysis-dao-core
+!theme plain
+top to bottom direction
+
+package dao{
+    class SessionDTO
+    abstract SessionDAO
+    SessionDAO *--> SessionDTO
+    note right of SessionDAO :This has to be\nimplmented\nby a specifict\ntechnology
+}
+dao ..> models
+
+package models {
+}
+
+@enduml
