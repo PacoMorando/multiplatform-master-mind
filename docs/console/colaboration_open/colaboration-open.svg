@@ -36,8 +36,8 @@ reverse link fileReader to bufferedReader--><g id="link_fileReader_bufferedReade
 reverse link bufferedReader to gameDAO--><g id="link_bufferedReader_gameDAO"><path d="M366.27,813.1191 C376.1,813.1191 385.93,813.1191 395.76,813.1191 " fill="none" id="bufferedReader-backto-gameDAO" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="361.12,813.1191,370.1314,817.0934,366.12,813.1049,370.1085,809.0934,361.12,813.1191" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[be0c05e9e41776c9383956cd4c0e3145]
 link sessionDTO to session--><g id="link_sessionDTO_session"><path d="M646.02,813.1191 C678.79,813.1191 720.53,813.1191 751.15,813.1191 " fill="none" id="sessionDTO-to-session" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="756.35,813.1191,747.35,809.1191,751.35,813.1191,747.35,817.1191,756.35,813.1191" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="74" x="664.25" y="807.189">load(game)</text></g><!--MD5=[23bac820dad7f95545817cb23638e57e]
 link sessionDTO to game--><g id="link_sessionDTO_game"><path d="M592.12,831.9291 C590.04,851.7591 586.66,883.8491 584.39,905.4491 " fill="none" id="sessionDTO-to-game" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="583.86,910.4291,588.7624,901.8871,584.373,905.4555,580.8046,901.0662,583.86,910.4291" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[03282c5e0ce94f971771a28e13fdfdc9]
-link gameDAO to game--><g id="link_gameDAO_game"><path d="M462.72,831.6791 C487.8,851.9591 529.03,885.2891 555.85,906.9691 " fill="none" id="gameDAO-to-game" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="560.02,910.3491,555.5379,901.5793,556.1324,907.2048,550.5069,907.7994,560.02,910.3491" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="39" x="520" y="877.689">new()</text></g><!--MD5=[62c88408e12d55142ac8289b5f03c35f]
-@startuml colaboration-propose-combination-core
+link gameDAO to game--><g id="link_gameDAO_game"><path d="M462.72,831.6791 C487.8,851.9591 529.03,885.2891 555.85,906.9691 " fill="none" id="gameDAO-to-game" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="560.02,910.3491,555.5379,901.5793,556.1324,907.2048,550.5069,907.7994,560.02,910.3491" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="39" x="520" y="877.689">new()</text></g><!--MD5=[4b7d5f2b90fa275384f02c393ddf1570]
+@startuml colaboration-open
 !theme plain
 
 actor player
@@ -91,7 +91,7 @@ gameDAO -right-> game :new()
 
 @enduml
 
-@startuml colaboration-propose-combination-core
+@startuml colaboration-open
 
 
 

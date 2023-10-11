@@ -34,8 +34,8 @@ link session to registry--><g id="link_session_registry"><path d="M648,552.6491 
 reverse link game to registry--><g id="link_game_registry"><path d="M581.36,664.1191 C591.23,664.1191 601.1,664.1191 610.98,664.1191 " fill="none" id="game-backto-registry" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="576.2,664.1191,585.2,668.1191,581.2,664.1191,585.2,660.1191,576.2,664.1191" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[d962e907b3d13f6a8bb2754c27349212]
 link game to proposedCombination--><g id="link_game_proposedCombination"><path d="M557.28,683.1091 C568.45,702.6591 586.3,733.8991 598.33,754.9491 " fill="none" id="game-to-proposedCombination" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="600.95,759.5391,599.9508,749.7411,598.4662,755.1997,593.0077,753.7151,600.95,759.5391" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="36" x="583" y="726.689">add()</text></g><!--MD5=[80ba6438252ec84ba23787d368e0496c]
 reverse link combination to proposedCombination--><g id="link_combination_proposedCombination"><path d="M493.75,778.1191 C503.51,778.1191 513.28,778.1191 523.05,778.1191 " fill="none" id="combination-backto-proposedCombination" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="488.64,778.1191,497.64,782.1191,493.64,778.1191,497.64,774.1191,488.64,778.1191" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[1256a04e72427607f125ef015a7a7c80]
-reverse link colors to combination--><g id="link_colors_combination"><path d="M353.39,778.1191 C363.43,778.1191 373.46,778.1191 383.49,778.1191 " fill="none" id="colors-backto-combination" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="348.14,778.1191,357.14,782.1191,353.14,778.1191,357.14,774.1191,348.14,778.1191" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[135501ccd4915c4099525aec86f10de8]
-@startuml colaboration-propose-combination-core
+reverse link colors to combination--><g id="link_colors_combination"><path d="M353.39,778.1191 C363.43,778.1191 373.46,778.1191 383.49,778.1191 " fill="none" id="colors-backto-combination" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="348.14,778.1191,357.14,782.1191,353.14,778.1191,357.14,774.1191,348.14,778.1191" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[c20cb3dc06283a1f446f8ef21b52cdd4]
+@startuml colaboration-propose-combination
 !theme plain
 
 actor player
@@ -83,7 +83,7 @@ combination .left.> colors
 
 @enduml
 
-@startuml colaboration-propose-combination-core
+@startuml colaboration-propose-combination
 
 
 

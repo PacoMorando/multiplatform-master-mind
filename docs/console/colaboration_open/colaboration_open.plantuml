@@ -1,4 +1,4 @@
-@startuml colaboration-propose-combination-core
+@startuml colaboration-open
 !theme plain
 
 actor player

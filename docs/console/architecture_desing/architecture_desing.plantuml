@@ -1,4 +1,4 @@
-@startuml analysis-views-core
+@startuml analysis-architecture
 !theme plain
 
 package analysis{

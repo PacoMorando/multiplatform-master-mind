@@ -26,8 +26,8 @@ link XMessage to XConsole--><g id="link_XMessage_XConsole"><path d="M326,342.229
 reverse link XDAO to XSessionImpDAO--><g id="link_XDAO_XSessionImpDAO"><path d="M91.42,347.2791 C90.86,375.2691 90.01,417.3591 89.48,443.6291 " fill="none" id="XDAO-backto-XSessionImpDAO" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="91.52,342.2291,87.3408,351.1474,91.42,347.2281,95.3392,351.3073,91.52,342.2291" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[ecadcc4cae554e458c7c9ba54e7d7d9f]
 reverse link XModel to XSessionImpDAO--><g id="link_XModel_XSessionImpDAO"><path d="M157.23,346.5891 C141.46,374.5691 117.46,417.1391 102.53,443.6291 " fill="none" id="XModel-backto-XSessionImpDAO" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="159.69,342.2291,151.7996,348.1233,157.2448,346.5905,158.7777,352.0357,159.69,342.2291" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[31756b1e06ebd6c02d7ce1b43af42910]
 link XSessionImpDAO to XGameDAO--><g id="link_XSessionImpDAO_XGameDAO"><path d="M91.22,493.3691 C92.72,509.4391 94.71,530.7591 96.31,547.7991 " fill="none" id="XSessionImpDAO-to-XGameDAO" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="96.79,552.9391,99.9491,543.6107,96.3322,547.9601,91.9827,544.3432,96.79,552.9391" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[5f123b110c0e5f95bffd6bb22e4b2b00]
-reverse link XModel to XGameDAO--><g id="link_XModel_XGameDAO"><path d="M179.26,347.5491 C186.46,387.7491 194.19,461.8091 168,517.1191 C161.3,531.2691 149.46,543.3791 137.46,552.8991 " fill="none" id="XModel-backto-XGameDAO" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="178.3,342.3391,176.0137,351.9189,179.2145,347.2548,183.8787,350.4557,178.3,342.3391" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[2a91038444c3d78e5bbe63d6de59ed6a]
-@startuml analysis-views-core
+reverse link XModel to XGameDAO--><g id="link_XModel_XGameDAO"><path d="M179.26,347.5491 C186.46,387.7491 194.19,461.8091 168,517.1191 C161.3,531.2691 149.46,543.3791 137.46,552.8991 " fill="none" id="XModel-backto-XGameDAO" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="178.3,342.3391,176.0137,351.9189,179.2145,347.2548,183.8787,350.4557,178.3,342.3391" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[419e230219694f8761b518d106482b6c]
+@startuml analysis-architecture
 !theme plain
 
 package analysis{
@@ -70,7 +70,7 @@ XGameDAO .up.> XModel
 
 @enduml
 
-@startuml analysis-views-core
+@startuml analysis-architecture
 
 
 
