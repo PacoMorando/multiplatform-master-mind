@@ -1,7 +1,7 @@
 # Multiplatform master mind
 
 
-![Logo Image](.\docs\presentation\master_mind_logo.svg)
+![Logo Image](docs/presentation/master_mind_logo.svg)
 ### Index
 - **[Description](#description)**
 - **[Application development](#application-development)**
