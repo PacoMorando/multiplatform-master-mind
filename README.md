@@ -81,7 +81,7 @@ In the case of web distribution, I developed a [Rest API](https://github.com/Pac
 ![Context diagram](docs/core/context/context-core.svg)
 
 
-### Colaboration Diagram Open Case
+### Colaboration Diagram 'Open Case'
 ![Colaboration diagram 'Open Case'](docs/core/colaboration-open/colaboration-propose-combination-core.svg)
 
 

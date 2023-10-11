@@ -1,0 +1,42 @@
+@startuml analysis-views-core
+!theme plain
+
+package analysis{
+    boundary XView
+    control XController
+    entity XDAO
+    entity XModel
+}
+
+
+XView ..> XController
+XView ..> XModel
+XController ..> XModel
+XController ..> XDAO
+
+package front <<Text Console>> {
+    boundary XConsoleView
+    boundary XConsole
+    boundary XMessage
+}
+
+XConsoleView .up.> XView
+XConsoleView .up.> XController
+XConsoleView --> XConsole
+XConsoleView --> XMessage
+XConsoleView ..> XModel
+XConsole .up.> XView
+XMessage .up.> XView
+XMessage --> XConsole
+
+package backend <<FileWriter>> {
+    entity XSessionImpDAO
+    entity XGameDAO
+}
+
+XSessionImpDAO .up.> XDAO
+XSessionImpDAO .up.> XModel
+XSessionImpDAO --> XGameDAO
+XGameDAO .up.> XModel
+
+@enduml
