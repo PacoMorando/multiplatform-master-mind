@@ -5,7 +5,7 @@ package views{
     interface ControllerVisitor
     abstract View
     View -up-|> ControllerVisitor
-    note right of View :This has to be\nimplmented\nfor a specifict\ntechnology
+    note right of View :This has to be\nimplmented\nby a specifict\ntechnology
 }
 
 views .down.> controllers

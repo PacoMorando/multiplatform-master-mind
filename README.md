@@ -1,4 +1,4 @@
-# Multiplatform master mind
+# Multiplatform Game
 
 
 ![Logo Image](docs/presentation/master_mind_logo.svg)
@@ -16,6 +16,10 @@
   - **[Controllers Analysis Diagram](#controllers-analysis-diagram)**
   - **[DAOs Analysis Diagram](#daos-analysis-diagram)**
   - **[Models Analysis Diagram](#models-analysis-diagram)**
+- **[User Interface](#user-interface)**
+  - **[Andorid Application](#andorid-application)**
+  - **[Web Application](#web-application)**
+
 
 ## Description
 
@@ -74,7 +78,7 @@ In the case of web distribution, I developed a [Rest API](https://github.com/Pac
 
 
 ### Colaboration Diagram Open Case
-![Colaboration diagram 'Open Case'](.\docs\core\colaboration-open\colaboration-propose-combination-core.svg)
+![Colaboration diagram 'Open Case'](docs/core/colaboration-open/colaboration-propose-combination-core.svg)
 
 
 ### Colaboration Diagram 'ProposeCombination Case'
@@ -99,3 +103,18 @@ In the case of web distribution, I developed a [Rest API](https://github.com/Pac
 
 ### Models Analysis Diagram
 ![Models Analysis diagram](docs/core/architecture-models-analysis/analysis-models-core.svg)
+
+## User Interface
+
+### Andorid Application 
+
+![movil screen shot](docs/presentation/mm_ss1.webp)
+![movil screen shot](docs/presentation/mm_ss2.webp)
+![movil screen shot](docs/presentation/mm_ss3.webp)
+![movil screen shot](docs/presentation/mm_ss4.webp)
+
+### Web Application 
+
+![Web secreen shot](docs/presentation/mm_ss_web1.webp)
+![Web secreen shot](docs/presentation/mm_ss_web2.webp)
+![Web secreen shot](docs/presentation/mm_ss_web3.webp)
