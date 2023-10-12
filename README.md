@@ -1,4 +1,4 @@
-# Multiplatform Game HOLA TEST
+# Multiplatform Game
 
 
 ![Logo Image](docs/presentation/master_mind_logo.svg)
