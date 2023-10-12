@@ -7,6 +7,7 @@
 - **[Application development](#application-development)**
   - **[Application core](https://github.com/PacoMorando/master-mind-core)**
   - **[Console implementation](https://github.com/PacoMorando/master-mind-console)**
+  - **[Android implementation](https://github.com/PacoMorando/master-mind-android)**
   - **[API  implementation](https://github.com/PacoMorando/master-mind-api)**
   - **[Web application](https://github.com/PacoMorando/master-mind-web)**
 - **[Documentation](#documentation)**
@@ -112,10 +113,13 @@ In the case of web distribution, I developed a [Rest API](https://github.com/Pac
 
 ### Andorid Application 
 
-![movil screen shot](docs/presentation/mm_ss1.webp)
-![movil screen shot](docs/presentation/mm_ss2.webp)
-![movil screen shot](docs/presentation/mm_ss3.webp)
-![movil screen shot](docs/presentation/mm_ss4.webp)
+|  |  |
+|---|---|
+| ![app screenshot](docs/presentation/mm_ss1.webp) | ![app screenshot](docs/presentation/mm_ss2.webp)|
+
+|  |  |
+|---|---|
+| ![app screenshot](docs/presentation/mm_ss3.webp) | ![app screenshot](docs/presentation/mm_ss4.webp)|
 
 ### Web Application 
 
